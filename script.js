@@ -137,9 +137,9 @@ function parseJsonFeed(data, feed) {
 async function fetchLiveFeed(feed) {
   const proxyUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feed.url)}`;
   const response = await fetch(proxyUrl, { cache: "no-store" });
-  if (!response.ok) throw new Error(`${feed.label} 新闻读取失败`);
+  if (!response.ok) throw new Error(`${feed.label}新闻读取失败`);
   const data = await response.json();
-  if (data.status !== "ok") throw new Error(`${feed.label} 新闻解析失败`);
+  if (data.status !== "ok") throw new Error(`${feed.label}新闻解析失败`);
   return parseJsonFeed(data, feed);
 }
 
@@ -163,7 +163,7 @@ function articleMeta(article) {
   const icon = getFavicon(article.url);
   return `
     <div class="article-meta">
-      ${icon ? `<img class="source-icon" src="${icon}" alt="${article.source} 图标" loading="lazy">` : ""}
+      ${icon ? `<img class="source-icon" src="${icon}" alt="${article.source}图标" loading="lazy">` : ""}
       <span class="category-tag">${article.category}</span>
       <span>${article.source}</span>
       <span>${formatRelativeTime(article.publishedAt)}</span>
@@ -203,13 +203,15 @@ function getFilteredArticles() {
 function renderLead(articles) {
   const [lead, ...rest] = articles;
   if (!lead) {
-    elements.leadCard.classList.remove("ready");
-    elements.leadCard.innerHTML = "<h2>暂时没有匹配新闻</h2><p class=\"article-summary\">可以清空搜索词或切换到全部分类。</p>";
+    elements.leadCard.classList.remove("ready", "loading");
+    elements.leadCard.innerHTML =
+      '<h2>暂时没有匹配新闻</h2><p class="article-summary">可以清空搜索词，或切换到全部分类。</p>';
     elements.briefStack.innerHTML = "";
     return;
   }
 
   elements.leadCard.classList.add("ready");
+  elements.leadCard.classList.remove("loading");
   elements.leadCard.innerHTML = `
     ${articleMeta(lead)}
     <h2>${lead.title}</h2>
@@ -241,8 +243,10 @@ function renderNews() {
       (article) => `
         <article class="news-card">
           ${articleMeta(article)}
-          <h3>${article.title}</h3>
-          <p class="article-summary">${article.summary || "点击进入原始报道阅读完整内容。"}</p>
+          <div>
+            <h3>${article.title}</h3>
+            <p class="article-summary">${article.summary || "点击进入原始报道阅读完整内容。"}</p>
+          </div>
           <a class="article-link" href="${article.url}" target="_blank" rel="noopener noreferrer">阅读原文</a>
         </article>
       `
@@ -283,8 +287,9 @@ async function loadNews() {
       elements.resultSummary.textContent = `实时读取暂时不可用，正在显示备用缓存，共 ${state.articles.length} 条新闻`;
       return;
     }
-    elements.leadCard.classList.remove("ready");
-    elements.leadCard.innerHTML = "<h2>新闻数据暂时无法读取</h2><p class=\"article-summary\">请稍后刷新页面，或检查备用新闻缓存是否存在。</p>";
+    elements.leadCard.classList.remove("ready", "loading");
+    elements.leadCard.innerHTML =
+      '<h2>新闻数据暂时无法读取</h2><p class="article-summary">请稍后刷新页面，或检查备用新闻缓存是否存在。</p>';
     elements.briefStack.innerHTML = "";
     elements.newsGrid.innerHTML = "";
     elements.resultSummary.textContent = "读取失败";

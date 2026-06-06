@@ -1,6 +1,6 @@
 {
   "siteName": "环球即刻",
-  "updatedAt": "2026-06-06T08:54:49.343Z",
+  "updatedAt": "2026-06-06T09:08:00.748Z",
   "sourceNote": "中文 Google News RSS 聚合",
   "categories": [
     {
@@ -31,6 +31,16 @@
   "articles": [
     {
       "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "黎巴嫩军方称以军空袭黎南部致其军官及士兵死亡",
+      "source": "中国日报网",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80VWs3OUNfSjZNRVk4SzRpRUlpTHJ4VkxEdDduMzFZT0RUSHE0d0U0UHRqWUFvbE5odlAwSEExa2hEMGx5OFcyeTQzNHM2RVQxVEpsbE82NGpDNWxNQUx0MlN0UGZidVIwY2V4b1dSakhuYklmVzg1WjJMMFU?oc=5",
+      "publishedAt": "2026-06-06T08:30:00.000Z",
+      "summary": "黎巴嫩军方称以军空袭黎南部致其军官及士兵死亡 中国日报网在Google 新闻上查看更多头条新闻和观点"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
       "title": "韩正出席第二十九届圣彼得堡国际经济论坛全会并致辞",
       "source": "驻俄罗斯大使馆",
       "category": "全球",
@@ -58,16 +68,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0JXeXY1QjVqaUltRlRCYm9wNGRrZS1XSGhyQXZzSkZZQ3RkcU4zRW5OSHBEbFZTX1RWRGZ5S0FSdTZMZjFCWnNWRHdPNjZLdnZQLURLRVNFUnp2TGl4WmF2ekZ2WXc4cEk4QU9pUFhBb3Itd21UZ2JCNlhKM1RCblZ5VEduNElfNWpPQQ?oc=5",
       "publishedAt": "2026-06-06T07:39:00.000Z",
       "summary": "当面求谈转头空袭校舍？普京痛批泽连斯基公开信粗鲁无礼，撕开俄乌谈判表里反差 搜狐网普京：不见-观察者网 观察者联合国：支持俄乌解决冲突实现停火 央视网普京回应泽连斯基公开信 新浪财经普京拒绝泽连斯基的直接对话邀请；美众议院通过对乌援助法案 美国之音"
-    },
-    {
-      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
-      "title": "黎巴嫩军方称以军空袭黎南部致其军官及士兵死亡",
-      "source": "中安在线",
-      "category": "全球",
-      "categoryKey": "world",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IbzBOdFV0VWZuRmFzRGFvQm1DMTYycEpkRXN0azdQaTl4MXgta3pzLUZJQXctYUpUTVRnbjlEd19NMnp5dFliSkZlOEYyVmZXSFBFUFVzZW9XRmRpLVZhU2Rucl8zLTF2NGo5Q0tn?oc=5",
-      "publishedAt": "2026-06-06T07:36:00.000Z",
-      "summary": "黎巴嫩军方称以军空袭黎南部致其军官及士兵死亡 中安在线在Google 新闻上查看更多头条新闻和观点"
     },
     {
       "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
@@ -101,6 +101,16 @@
     },
     {
       "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "零时差 | 一袋大米跨越万里，什么是非洲农民心中最珍贵的礼物？",
+      "source": "搜狐网",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYUt2MjFsMjkwOVNYYlVudnNkdlc0QmNHM0lXdUhwZWxKVm00MFhLLW5CM3RHcTMtdmM3aktEYmxqWXRLWi1SM1hDVE1zcEZVQjF5WTNQS0pTT01yOWdMYTFHbWZnOXRLVEtqWGVVa09xSndzcUFyZUpqekhwdGtLTE4xOTd6NEtk?oc=5",
+      "publishedAt": "2026-06-06T06:13:22.000Z",
+      "summary": "零时差 | 一袋大米跨越万里，什么是非洲农民心中最珍贵的礼物？ 搜狐网跨越山海的接力——非洲青年延续袁隆平的梦想 focac.org一袋大米跨越万里，什么是非洲农民心中最珍贵的礼物？ chinanews.com.cn弘扬科学家精神丨“书本上种不出水稻，电脑里也种不出水稻” MSN勤廉榜样丨袁隆平：人就像种子，要做一粒好"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
       "title": "哈马斯代表团抵达埃及 将就推进加沙停火协议与斡旋方会谈",
       "source": "Shangbao Indonesia",
       "category": "全球",
@@ -117,7 +127,17 @@
       "categoryKey": "world",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcklPUjlLenM1TVJQNUdoQWRKVXNZV093Y0ZXQ3c2X0FVN29HWnVjZElOR1hQcVlldHVPZ2tRbnhQZkFPdV9kWW5QZU9EV1FVRXh5QzFDbWVBaGdhUUxhd2xGSHlZV2ZQbjlFWGY3ekdMcUhmSEo5bW1tX0pSelp0VHZWTkhVMVNRcmNvVFc0YTJQQkZC?oc=5",
       "publishedAt": "2026-06-06T05:57:30.000Z",
-      "summary": "天文台在6月6日下午1时45分发出雷暴警告，有效时间至今日下午3时30分，预料香港南部水域及岛屿有几阵雷暴。 紫荆网天文台｜香港黄色暴雨现正生效+深圳即时天气+未来九天天气一览 香港01今日大致多云间中有骤雨及狂风雷暴最高气温约32°C｜即时新闻｜交通天气｜on.cc东网 on.cc東網神舟二十二号载人飞船返回舱在东风"
+      "summary": "天文台在6月6日下午1时45分发出雷暴警告，有效时间至今日下午3时30分，预料香港南部水域及岛屿有几阵雷暴。 紫荆网天文台｜取消黄色暴雨+深圳即时天气+未来九天天气一览 香港01今日大致多云间中有骤雨及狂风雷暴最高气温约32°C｜即时新闻｜交通天气｜on.cc东网 on.cc東網神舟二十二号载人飞船返回舱在东风着陆场着"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "黎巴嫩总统喊话伊朗：别把我们当谈判筹码",
+      "source": "凤凰网",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zMTZkbF9KMEU5aTR3T0tJVzBpbGluQVFTTWV1amNqMVlMSnZ2V1hYRTlUYzdpTWNOMVFreDl6aTBsaHJwdjk5OA?oc=5",
+      "publishedAt": "2026-06-06T05:43:27.000Z",
+      "summary": "黎巴嫩总统喊话伊朗：别把我们当谈判筹码 凤凰网新华网国际看点｜美伊谈判关键时刻，以色列为何来“搅局”？ 新华网伊朗外长：若以色列侵略黎巴嫩贝鲁特 伊方将重新开战 新浪财经特朗普爆粗口 大骂以总理“疯了”：所有人都讨厌你 你到底在干什么？ 东方财富伊朗“圣城旅”：以色列须撤退至冲突爆发前的位置 凤凰网"
     },
     {
       "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
@@ -141,33 +161,13 @@
     },
     {
       "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
-      "title": "一袋大米跨越万里，什么是非洲农民心中最珍贵的礼物？",
-      "source": "chinanews.com.cn",
+      "title": "特朗普：将很快从伊朗战事中“脱身” 但协议尚未达成",
+      "source": "大河财立方",
       "category": "全球",
       "categoryKey": "world",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByVHB2eWdnOVVCSEdxN3N6bXEwblc0a2hJSjNsQUFXRHJ6eUZZaGVkOExJQlc3TzJXM2ZuOVNoV3BpZ3VrN2F3cjdQYVgxY3BscEVKVHItYkpwUTJNZk4zRkQxTnYzRDFl?oc=5",
-      "publishedAt": "2026-06-06T03:57:50.000Z",
-      "summary": "一袋大米跨越万里，什么是非洲农民心中最珍贵的礼物？ chinanews.com.cn跨越山海的接力——非洲青年延续袁隆平的梦想 focac.org弘扬科学家精神丨“书本上种不出水稻，电脑里也种不出水稻” MSN勤廉榜样丨袁隆平：人就像种子，要做一粒好种子_全球_新闻 华人头条勤廉榜样丨袁隆平：人就像种子，要做一粒好种子"
-    },
-    {
-      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
-      "title": "美伊谈判最大悬念：伊朗高浓缩铀由谁接手？",
-      "source": "凤凰网",
-      "category": "全球",
-      "categoryKey": "world",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zMjg5UEJVaWdMSy1KRTFLRmV1cXJFeHhUXzd3Q3pOYUpGV0VaYkZGRmlYbW1EVEJKeThrNzExYVpycFZfaF8wSzBWcDA?oc=5",
-      "publishedAt": "2026-06-06T03:27:42.000Z",
-      "summary": "美伊谈判最大悬念：伊朗高浓缩铀由谁接手？ 凤凰网特朗普：只有中美，能从伊朗废墟中取出浓缩铀-观察者网 观察者伊朗战争逼近百日 美伊和平谈判仍陷僵局 新浪财经特朗普称将迅速结束伊朗战事 中国日报网中东睿评｜美以伊战争陷入“战和两难”僵局，根源何在？ thepaper.cn"
-    },
-    {
-      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
-      "title": "乌干达累计确诊19例埃博拉病例 多为输入病例",
-      "source": "12371.gov.cn",
-      "category": "全球",
-      "categoryKey": "world",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREh3MXV2SC05dnppSy00TFd6Q1hFYjdtZHhiSVpHeGljRTFLVUVoeGVzNWVJOVNwVXR5NDRqYXl4bFM2aE5qeGQ2ZWE1RXM2WHllbnlTNkEzYzdranpUYVdBa1F4Y0xNSG9hOTc5OGN4eU1MdHJla2RIdGhHUmN6TUFyZEhZUGxBTFJ3bDE0YVI2UVM3NERacg?oc=5",
-      "publishedAt": "2026-06-06T02:55:18.000Z",
-      "summary": "乌干达累计确诊19例埃博拉病例 多为输入病例 12371.gov.cn刚果（金）埃博拉检测能力提升 24小时能出结果 新华网徐寒获批担任九江银行资金营运中心副总经理 新浪财经世卫与非疾控启动超5亿美元埃博拉疫情防控计划 新京报中国公民尽快撤离！中使馆紧急提醒 thepaper.cn"
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KRHZKUVRIcENuUkw0elpNeC05MGtvX1VVUURjZXRMX0ZMWmpBRHpSdHR2OXh2RHNzeGZ3bmx6STRGQU43eUtBTUJMeU9tdDRMdGpFQkp3b3RRcWQ1YmFyZkp2aV9aUlJwWDJjVUNNS2o1QmJh?oc=5",
+      "publishedAt": "2026-06-06T01:54:16.000Z",
+      "summary": "特朗普：将很快从伊朗战事中“脱身” 但协议尚未达成 大河财立方特朗普：只有中美，能从伊朗废墟中取出浓缩铀-观察者网 观察者伊朗战争逼近百日 美伊和平谈判仍陷僵局 新浪财经特朗普称将迅速结束伊朗战事 中国日报网中东睿评｜美以伊战争陷入“战和两难”僵局，根源何在？ thepaper.cn"
     },
     {
       "id": "ZWNvbm9teTpodHRwczovL25l",
@@ -180,6 +180,16 @@
       "summary": "G7成员国警告：中东战争正对全球经济造成“灾难性影响” 财联社"
     },
     {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "刚果（金）埃博拉疫情加速扩散 国际社会加大援助力度",
+      "source": "chinanews.com.cn",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIT1FKWUdwdkFpS2oxWXRaUVBLOVZzdzc5WUZ0YmlOaEhhTE1QMmthNlo4OF8wd0ZOSnlwVzRTdmlDTzF0dFo0dUVMejZvVVlLVTRSUS00SkVhSWd1Q1VwM2NUdlN1dGo2?oc=5",
+      "publishedAt": "2026-06-06T01:11:12.000Z",
+      "summary": "刚果（金）埃博拉疫情加速扩散 国际社会加大援助力度 chinanews.com.cn刚果（金）埃博拉检测能力提升 24小时能出结果 新华网徐寒获批担任九江银行资金营运中心副总经理 新浪财经世卫与非疾控启动超5亿美元埃博拉疫情防控计划 新京报中国公民尽快撤离！中使馆紧急提醒 thepaper.cn"
+    },
+    {
       "id": "ZWNvbm9teTpodHRwczovL25l",
       "title": "AI成券商投资策略“关键词”",
       "source": "新浪财经",
@@ -188,6 +198,26 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY2ZsYnZxMFBrOEFhczU5QlF3MVAzdHo4WmlXWUlUTDlHczluYWhkWkx5dU05QnFzZ1BWaVNpMUFIZ1lBNDF6Mk51UTRubE5tVmh4bHlqbHE3NlROZGFWY0UxOUY4czViajdqUVNxV0dqTFROMnJ1eEdvQmVOZXlVR1ZYZkNSQ3dobGl1NjdrRGd0c2dj?oc=5",
       "publishedAt": "2026-06-06T00:11:15.000Z",
       "summary": "AI成券商投资策略“关键词” 新浪财经"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "风水轮流转，轮到伊朗威胁美国了",
+      "source": "凤凰网",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9EMkZVR0docWhaRl8wNUZZM29rZGNXeURLelYxZHExaEFZQl9Id2JIT1g1dWVIRVR2TUlvbXdjbV9Oa1A3ZENfUg?oc=5",
+      "publishedAt": "2026-06-05T23:48:10.000Z",
+      "summary": "风水轮流转，轮到伊朗威胁美国了 凤凰网伊朗高层罕见接受美媒专访，向特朗普提条件：必须通过这道考验 凤凰网伊朗最高领袖顾问：美伊谈判陷入僵局，能否成功取决于伊朗资产解冻 thepaper.cn美知情官员：金钱赔偿为美伊协议关键症结所在 联合早报伊朗要求美国在签署谅解备忘录后支付50%的资产 VOI.ID"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "国际原子能机构斡旋达成扎波罗热核电站局部临时停火",
+      "source": "新蓝网",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GUGFVdHlxNFRBcEhPNXIzX3pGaVdhTnRyNkdVeDNEZkU3TmIteUlaZGZnVE90Z1BYVUlsUVJJM1VteHgtdlVEaThwV3BEWDQ?oc=5",
+      "publishedAt": "2026-06-05T23:11:00.000Z",
+      "summary": "国际原子能机构斡旋达成扎波罗热核电站局部临时停火 新蓝网事关扎波罗热核电站，国际原子能机构紧急呼吁 凤凰网涉扎波罗热核电站，俄乌局部停火 thepaper.cn俄称扎波罗热核电站维修人员遭乌军无人机袭击 新浪财经俄称乌军无人机袭击扎波罗热核电站 搜狐网"
     },
     {
       "id": "ZWNvbm9teTpodHRwczovL25l",
@@ -210,6 +240,16 @@
       "summary": "经合组织：中东战争让全球经济面临衰退威胁 - 法国国际广播电台 茉莉花新闻网"
     },
     {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "伊朗称对两艘美军驱逐舰警告射击并将其驱离阿曼湾，美军方回应",
+      "source": "中国网",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81ZDNhbmotRjRsbmVjLW5nN3Fka3hZOXVrZ1hyVnlNalFQTkJFX2hZWkNMLS1mT1RYTEExREhwYkIzWmtQbWhuM29ZQ1BXZ2x1RGNYM2hJTm1uR1V0c0I2dHVKd3JuRncwM09ZZWQtaw?oc=5",
+      "publishedAt": "2026-06-05T16:53:00.000Z",
+      "summary": "伊朗称对两艘美军驱逐舰警告射击并将其驱离阿曼湾，美军方回应 中国网突发！伊朗发射导弹警告，美军驱逐舰“特拉克斯顿”号和“梅森”号离开阿曼湾！伊朗否认已同意将浓缩铀转移至第三国 每日经济新闻伊朗革命卫队称对美以关联船只实施报复性打击 联合早报英国海上贸易行动办公室：一艘货船在波斯湾遭袭并发生爆炸 央视网几万快艇对轰百万导"
+    },
+    {
       "id": "ZWNvbm9teTpodHRwczovL25l",
       "title": "OECD下调2026年全球经济增速至2.8%",
       "source": "新浪财经",
@@ -218,6 +258,16 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEVzNWOXBvLUxLdWEzMk9tbTgtZHAtNEMyUmhwMFBnWGNwT1NKRkFwX3NOWUJsWmZrNE5zM2dkaUpscTRlRVo4MXhFd1dINUV5UlBYdXpOUzBxQ0tsQlZNUVVZc1IzV0RjYS1ycXlqa1NXMkp6dXctdEhtbjI?oc=5",
       "publishedAt": "2026-06-05T15:27:10.000Z",
       "summary": "OECD下调2026年全球经济增速至2.8% 新浪财经"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "外交部发言人就美国宣布制裁古巴国家主席等答记者问",
+      "source": "thepaper.cn",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXTlY0ZGRwRUVVLUlCb0tmSE5xYzVOb1BJUmVMQXR3ZkJ6S0ZaeVNDdTZZM0ppdWU1UTA2QVZrRnI1d2NTd1NUMDFZNXhfOEVwS2I4RmthcnF5T1dub3c?oc=5",
+      "publishedAt": "2026-06-05T14:44:00.000Z",
+      "summary": "外交部发言人就美国宣布制裁古巴国家主席等答记者问 thepaper.cn在Google 新闻上查看更多头条新闻和观点"
     },
     {
       "id": "dGVjaDpodHRwczovL25ld3Mu",
@@ -330,16 +380,6 @@
       "summary": "全球经济格局剧变，大宗商品开启长期牛市黄金、铜成核心资产 新浪财经"
     },
     {
-      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
-      "title": "美军“福特”号火灾视频曝光，“感觉船要没了，要么灭火，要么等死”",
-      "source": "观察者",
-      "category": "全球",
-      "categoryKey": "world",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QVjBPQW1iWEVWWEQ4VU5mNUJkNWE3N0tValR2WnBfXzA3WVNsbDJySmFweGdqclFDRmNzY2hubDBKYjg5bHB5ckhvNnhTU0F0aUJpTmx0VXBJQlJDcXdSUWttOTdJRWdqc1E?oc=5",
-      "publishedAt": "2026-06-05T03:50:00.000Z",
-      "summary": "美军“福特”号火灾视频曝光，“感觉船要没了，要么灭火，要么等死” 观察者美军“福特”号航母火灾后内部画面曝光 损毁有多严重？ 中国青年网美媒：先后部署到委内瑞拉和伊朗，美军“福特”号航母损毁严重 搜狐网美媒披露：美军最先进航母，至少一年无法再次出海 新浪新闻_手机新浪网美媒称“福特”号航母火灾受损程度远超美军披露 央视"
-    },
-    {
       "id": "cG9saXRpY3M6aHR0cHM6Ly9u",
       "title": "习近平访问平壤：朝中关系、北核与乌克兰战争下的世界秩序",
       "source": "亚洲日报",
@@ -350,16 +390,6 @@
       "summary": "习近平访问平壤：朝中关系、北核与乌克兰战争下的世界秩序 亚洲日报"
     },
     {
-      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
-      "title": "特朗普政府加强经济封锁，外资纷纷撤离古巴",
-      "source": "纽约时报中文网",
-      "category": "全球",
-      "categoryKey": "world",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqcExDczY2dUpDU2ZlMjNNR1gzZGIxNWtxSElQTWpZaXZ3VF9pNWY3MnNHQTB5WjFXLWtpRVYyVks3YlNNdk5KZG53bGJQQlUtVjhNZ2w1ZDRaNE1samdtSWpVck85Z0ZQLW53Z3RENFFpdw?oc=5",
-      "publishedAt": "2026-06-05T02:59:33.000Z",
-      "summary": "特朗普政府加强经济封锁，外资纷纷撤离古巴 纽约时报中文网美国对古巴实施制裁，包括其总统 美国之音外交部：中方坚定支持古巴维护国家主权和安全 新浪财经美国制裁古巴国家主席 古巴外长回应 新京报欧企仓促逃离古巴，“美国制裁面前欧洲像只小狗”-观察者网 观察者"
-    },
-    {
       "id": "Y29uZmxpY3Q6aHR0cHM6Ly9u",
       "title": "国际｜普京：有理由认为俄乌冲突已接近结束",
       "source": "新京报",
@@ -368,16 +398,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ma2JhUnpGVTRKTG8xSElqZFpUMjlrZG9GSV9DaGF3YzVhVGpDNFVZQnVCVHNLTmlTTWVFZjZZYnhkV1FiQjhXOUt2ZG9JMjA1NXdJakE1YVM0UGhSaFl5VFRn?oc=5",
       "publishedAt": "2026-06-05T02:26:23.000Z",
       "summary": "国际｜普京：有理由认为俄乌冲突已接近结束 新京报"
-    },
-    {
-      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
-      "title": "韩国地方选举：执政党大胜，但在首尔落败",
-      "source": "纽约时报中文网",
-      "category": "全球",
-      "categoryKey": "world",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLTJOTWVvd0FtZkdyUl9oY05yOHYtTjJrdEhTWEJjc1djdVktUDUzdnh1ZGhuWnFfSTlCVlE4eHdJaWdSUUF0dEpkd2s0cGItVEFMU1J4WDJEekRrOHNUc2ZHeVlkdUV5dkphRGJWUm56NXhjZngyTVRyTS1BQV9LWlNHdWxoZw?oc=5",
-      "publishedAt": "2026-06-05T01:44:51.000Z",
-      "summary": "韩国地方选举：执政党大胜，但在首尔落败 纽约时报中文网这个投票结果，说明尹锡悦的反噬效应还没完……-詹德斌-观察者网 观察者韩媒：韩国地方选举执政党锁定胜局|民主党|在野党|李在明|国会|庆尚南道_手机新浪网 新浪财经赢得不彻底？李在明任内“首考”过关，股市繁荣背后隐忧仍存 第一财经韩国第九届地方选举进行计票--国际 "
     },
     {
       "id": "Y2xpbWF0ZTpodHRwczovL25l",
@@ -728,26 +748,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZZ1JKMmRpS3YwQUFEcV94T0dsQjJXLXdHSE5WVThDRWJOaWhoQWZwVmlzZEM0c2lDNnhkRDl6WjYtSXFNRXJSUTMzTVpkX0NFZ2swWU9n?oc=5",
       "publishedAt": "2026-05-29T08:07:32.000Z",
       "summary": "赵书浩 梁国杰：全球南方塑造全球气候治理新格局 ecnu.edu.cn"
-    },
-    {
-      "id": "cG9saXRpY3M6aHR0cHM6Ly9u",
-      "title": "人事观察｜政治学博士卢春龙升任中国政法大学校长",
-      "source": "china.caixin.com",
-      "category": "政治",
-      "categoryKey": "politics",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wTlFJQ1hGNGpDVnlndGFiMUplV21vaF91YU1CM2VUSEVzd010YXBYdG1pVU9SczBZdFc5MmNRSlV6TF94U0tuN0NmZGhIUjJLcnZUMUZxaGc5SF9LVm9B?oc=5",
-      "publishedAt": "2026-05-29T04:12:00.000Z",
-      "summary": "人事观察｜政治学博士卢春龙升任中国政法大学校长 china.caixin.com"
-    },
-    {
-      "id": "Y29uZmxpY3Q6aHR0cHM6Ly9u",
-      "title": "国际能源署：中东冲突影响各国布局 能源安全再成焦点",
-      "source": "中国日报网",
-      "category": "冲突",
-      "categoryKey": "conflict",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jUlhLUmI4YjBUWGpEQk9sWjFaN2taeGg0QTc1RDlfMGFEZFRCQ05XMFhuaTFCWWZhNkNuaU5OTFVZMHhTemplRUZ5TEMtMDJfTmI5VkZyVnMxbnluT0p0SjNWelY1OWRiVzRWN2kxbjBEWlk2VVZINVlPa3c?oc=5",
-      "publishedAt": "2026-05-28T07:07:04.000Z",
-      "summary": "国际能源署：中东冲突影响各国布局 能源安全再成焦点 中国日报网"
     }
   ]
 }

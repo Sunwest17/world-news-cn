@@ -1,0 +1,753 @@
+{
+  "siteName": "环球即刻",
+  "updatedAt": "2026-06-06T08:54:49.343Z",
+  "sourceNote": "中文 Google News RSS 聚合",
+  "categories": [
+    {
+      "key": "world",
+      "label": "全球"
+    },
+    {
+      "key": "politics",
+      "label": "政治"
+    },
+    {
+      "key": "economy",
+      "label": "经济"
+    },
+    {
+      "key": "tech",
+      "label": "科技"
+    },
+    {
+      "key": "conflict",
+      "label": "冲突"
+    },
+    {
+      "key": "climate",
+      "label": "气候"
+    }
+  ],
+  "articles": [
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "韩正出席第二十九届圣彼得堡国际经济论坛全会并致辞",
+      "source": "驻俄罗斯大使馆",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jZk1EUTNIS19fSmZSZkV1TTkyLWQxeXNKdVNlalN4MGFqM0J5RkZDdTdrdlBpR19yNlJpOUhlSnJtMnJfRU9Yb25Ybmh0MWoyaGRSMWtjZUZjLWJ6TlF4TTlRcExFblZpV01TZ0dxOXkwMnI2V1BJ?oc=5",
+      "publishedAt": "2026-06-06T08:29:11.000Z",
+      "summary": "韩正出席第二十九届圣彼得堡国际经济论坛全会并致辞 驻俄罗斯大使馆在Google 新闻上查看更多头条新闻和观点"
+    },
+    {
+      "id": "Y29uZmxpY3Q6aHR0cHM6Ly9u",
+      "title": "【俄乌战争】国际原子能机构斡旋扎波罗热核电站停火| 国际 | 2026-06-06",
+      "source": "光明日报",
+      "category": "冲突",
+      "categoryKey": "conflict",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPc0dVVnJFWEw5RlBpUTB5TWY0eVJxVUhUWVFlVHprM1pBVW9pM2xaMjRHZDFqQ3E5U3AzWDZsZ0ZrQS1PSDJmQ1VnOUxOLTlDUkRRdnhzRTBzNV9vN2JvWDR4WUwwd0J5bzVvNU1vdkNaWng3VTY0YW0xbXFVYnhVdDNhSDdxcG9Zemo5NVpWcll6elBuTXEwSTN3U0xLLTBvTDg0bDkyQzYtNEIzMVFYTDlScTNCSk9KNWp6SDJsLTlSMlhNUFEzcllBenFXZW9mRXVlUW1jS1BvclFqeXZqVnpfUFdpWGpST1ZJZGhnLWNsMFlCN2hORTIwTUd1WHM3TDljWnZFZm5WRkdzQ24wUWROYnBJQjB1cEdFMkhrcnhudWhmWEh5SzN2WDUyWEhG?oc=5",
+      "publishedAt": "2026-06-06T07:59:03.000Z",
+      "summary": "【俄乌战争】国际原子能机构斡旋扎波罗热核电站停火| 国际 | 2026-06-06 光明日报"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "当面求谈转头空袭校舍？普京痛批泽连斯基公开信粗鲁无礼，撕开俄乌谈判表里反差",
+      "source": "搜狐网",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0JXeXY1QjVqaUltRlRCYm9wNGRrZS1XSGhyQXZzSkZZQ3RkcU4zRW5OSHBEbFZTX1RWRGZ5S0FSdTZMZjFCWnNWRHdPNjZLdnZQLURLRVNFUnp2TGl4WmF2ekZ2WXc4cEk4QU9pUFhBb3Itd21UZ2JCNlhKM1RCblZ5VEduNElfNWpPQQ?oc=5",
+      "publishedAt": "2026-06-06T07:39:00.000Z",
+      "summary": "当面求谈转头空袭校舍？普京痛批泽连斯基公开信粗鲁无礼，撕开俄乌谈判表里反差 搜狐网普京：不见-观察者网 观察者联合国：支持俄乌解决冲突实现停火 央视网普京回应泽连斯基公开信 新浪财经普京拒绝泽连斯基的直接对话邀请；美众议院通过对乌援助法案 美国之音"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "黎巴嫩军方称以军空袭黎南部致其军官及士兵死亡",
+      "source": "中安在线",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IbzBOdFV0VWZuRmFzRGFvQm1DMTYycEpkRXN0azdQaTl4MXgta3pzLUZJQXctYUpUTVRnbjlEd19NMnp5dFliSkZlOEYyVmZXSFBFUFVzZW9XRmRpLVZhU2Rucl8zLTF2NGo5Q0tn?oc=5",
+      "publishedAt": "2026-06-06T07:36:00.000Z",
+      "summary": "黎巴嫩军方称以军空袭黎南部致其军官及士兵死亡 中安在线在Google 新闻上查看更多头条新闻和观点"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "西方动摇了世界的信心，一场围绕主权的竞赛已经开始！-弗拉基米尔·普京-观察者网",
+      "source": "观察者",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2d1d4UnBndWg4NUp4THFQenhBRDhQQUdIX2FQejgxd3dwWnlCS3AzVlZxalN6a3B1dVZNTHZaR0thSXZMS1VBNk5DNVFFWEJTUDhJdUV5b09yNTl1SjdSTjN1RWE?oc=5",
+      "publishedAt": "2026-06-06T07:07:00.000Z",
+      "summary": "西方动摇了世界的信心，一场围绕主权的竞赛已经开始！-弗拉基米尔·普京-观察者网 观察者普京表示，中国发展强劲，在全球经济、世界政治及国际事务中扮演着日益重要的角色 光明网普京呼吁追求和谐发展之路以应对挑战 新华网普京：俄中元首良好互动引领两国关系不断开辟新前景 中国青年网普京就多个热点问题答世界主要通讯社提问 中国网新"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "伊朗袭击中东地区美军基地 美军称拦截伊导弹与无人机",
+      "source": "chinanews.com.cn",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZaTJJV1VLMlNYRVhPLVdmN1pPM3ZNVEg4VVZyOWw5RWpUZkJ4WUh1NnR3eFZiYTVOTHVmSVFiMU14MXBIZzlrOEV5OUZJTmEtX3Y5VHM5SHV6UThhS1pBRFhGZU1pUVRX?oc=5",
+      "publishedAt": "2026-06-06T06:54:07.000Z",
+      "summary": "伊朗袭击中东地区美军基地 美军称拦截伊导弹与无人机 chinanews.com.cn美军称拦截伊朗导弹和无人机 央视网省级“十五五”规划纲要看点之八 新浪财经美方：伊朗关于破坏巴林美军第五舰队总部的说法是虚假的 thepaper.cn全线跳水，超33万人爆仓！中东突发大消息 凤凰财经"
+    },
+    {
+      "id": "ZWNvbm9teTpodHRwczovL25l",
+      "title": "一文读懂：油价再涨多少会触发全球经济衰退“红线”？",
+      "source": "财联社",
+      "category": "经济",
+      "categoryKey": "economy",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14UWFvaUZ6QWJKVGl3MWxPRmRybXpVdnZ3a0pzYlBnYzc2Um9SbWVBdzROa2M1N1o5T05iY2RyRlBwZFpnZFRoSQ?oc=5",
+      "publishedAt": "2026-06-06T06:29:27.000Z",
+      "summary": "一文读懂：油价再涨多少会触发全球经济衰退“红线”？ 财联社"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "哈马斯代表团抵达埃及 将就推进加沙停火协议与斡旋方会谈",
+      "source": "Shangbao Indonesia",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0x6SXJON19STnN3dlpNTnRHdGNOVG9GOFF1QXVJUGtNNktQQUhfZ3h5ZmZIcnhxaU9WMzNrcWtQOWd3a3VqU0NKMnl4aFBTVF9YZVQzenBMMy1Ia0RjZHZkdy1ON0FqQjlOSEFEeHlIU21TQ0pBQ1pEWU1hdE5MUllhWjc?oc=5",
+      "publishedAt": "2026-06-06T05:58:00.000Z",
+      "summary": "哈马斯代表团抵达埃及 将就推进加沙停火协议与斡旋方会谈 Shangbao Indonesia哈马斯代表团抵达埃及，与斡旋方讨论落实加沙停火 thepaper.cn哈马斯重申：愿移交加沙地带治理权 否认不愿交权指控 中华军事哈马斯称其代表团与土耳其情报局局长讨论加沙局势 央视网哈马斯发言人说愿移交加沙治理权 京报网"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "天文台在6月6日下午1时45分发出雷暴警告，有效时间至今日下午3时30分，预料香港南部水域及岛屿有几阵雷暴。",
+      "source": "紫荆网",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcklPUjlLenM1TVJQNUdoQWRKVXNZV093Y0ZXQ3c2X0FVN29HWnVjZElOR1hQcVlldHVPZ2tRbnhQZkFPdV9kWW5QZU9EV1FVRXh5QzFDbWVBaGdhUUxhd2xGSHlZV2ZQbjlFWGY3ekdMcUhmSEo5bW1tX0pSelp0VHZWTkhVMVNRcmNvVFc0YTJQQkZC?oc=5",
+      "publishedAt": "2026-06-06T05:57:30.000Z",
+      "summary": "天文台在6月6日下午1时45分发出雷暴警告，有效时间至今日下午3时30分，预料香港南部水域及岛屿有几阵雷暴。 紫荆网天文台｜香港黄色暴雨现正生效+深圳即时天气+未来九天天气一览 香港01今日大致多云间中有骤雨及狂风雷暴最高气温约32°C｜即时新闻｜交通天气｜on.cc东网 on.cc東網神舟二十二号载人飞船返回舱在东风"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "黎真主党领导人斥停火是幌子",
+      "source": "东方财富",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WQkV1bEl0cGprdFJlNTNCNXNtTUZVQlpQcHpzMFFBaDh3UEJpRzBtZVYtUEd3QVJoeS1Xb0trMDdkNmJVdDRrX1NwV0FfZTRoSDBLQXdYVkg5OFUwVEhnSg?oc=5",
+      "publishedAt": "2026-06-06T04:06:48.000Z",
+      "summary": "黎真主党领导人斥停火是幌子 东方财富以色列军队开始从黎巴嫩南部撤军 新浪财经新闻分析丨以黎有条件停火会否沦为一纸空文 新华网黎以是否真能停火？专家：和谈难阻战火 双方交火仍继续 中国青年网特朗普欲将以黎冲突和美伊谈判“分开处理” 中国日报网"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "中国香港和乌兹别克斯坦深化多领域务实合作",
+      "source": "同花顺",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lRkR3SU5heUFNcU5OODlxZzdQWjRTNW16V0tkazNRNTdnR3hKMTN6c2V5MzBMd1M0ampQcU5tazEweU83elhoRXZibGhrMldjX2NLVnpQZUF1UHNGNmc?oc=5",
+      "publishedAt": "2026-06-06T04:05:07.000Z",
+      "summary": "中国香港和乌兹别克斯坦深化多领域务实合作 同花顺香江观澜：“枢纽对枢纽” ——香港联通中亚开启合作新篇章 新浪财经中国携手中亚 新型开放模式加速生长 中国青年网中国香港和哈萨克斯坦深化多领域务实合作 人民日报李家超谈中亚行成果：签96份合作文件 金额超16.5亿美元 中国网新闻中心"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "一袋大米跨越万里，什么是非洲农民心中最珍贵的礼物？",
+      "source": "chinanews.com.cn",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByVHB2eWdnOVVCSEdxN3N6bXEwblc0a2hJSjNsQUFXRHJ6eUZZaGVkOExJQlc3TzJXM2ZuOVNoV3BpZ3VrN2F3cjdQYVgxY3BscEVKVHItYkpwUTJNZk4zRkQxTnYzRDFl?oc=5",
+      "publishedAt": "2026-06-06T03:57:50.000Z",
+      "summary": "一袋大米跨越万里，什么是非洲农民心中最珍贵的礼物？ chinanews.com.cn跨越山海的接力——非洲青年延续袁隆平的梦想 focac.org弘扬科学家精神丨“书本上种不出水稻，电脑里也种不出水稻” MSN勤廉榜样丨袁隆平：人就像种子，要做一粒好种子_全球_新闻 华人头条勤廉榜样丨袁隆平：人就像种子，要做一粒好种子"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "美伊谈判最大悬念：伊朗高浓缩铀由谁接手？",
+      "source": "凤凰网",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zMjg5UEJVaWdMSy1KRTFLRmV1cXJFeHhUXzd3Q3pOYUpGV0VaYkZGRmlYbW1EVEJKeThrNzExYVpycFZfaF8wSzBWcDA?oc=5",
+      "publishedAt": "2026-06-06T03:27:42.000Z",
+      "summary": "美伊谈判最大悬念：伊朗高浓缩铀由谁接手？ 凤凰网特朗普：只有中美，能从伊朗废墟中取出浓缩铀-观察者网 观察者伊朗战争逼近百日 美伊和平谈判仍陷僵局 新浪财经特朗普称将迅速结束伊朗战事 中国日报网中东睿评｜美以伊战争陷入“战和两难”僵局，根源何在？ thepaper.cn"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "乌干达累计确诊19例埃博拉病例 多为输入病例",
+      "source": "12371.gov.cn",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREh3MXV2SC05dnppSy00TFd6Q1hFYjdtZHhiSVpHeGljRTFLVUVoeGVzNWVJOVNwVXR5NDRqYXl4bFM2aE5qeGQ2ZWE1RXM2WHllbnlTNkEzYzdranpUYVdBa1F4Y0xNSG9hOTc5OGN4eU1MdHJla2RIdGhHUmN6TUFyZEhZUGxBTFJ3bDE0YVI2UVM3NERacg?oc=5",
+      "publishedAt": "2026-06-06T02:55:18.000Z",
+      "summary": "乌干达累计确诊19例埃博拉病例 多为输入病例 12371.gov.cn刚果（金）埃博拉检测能力提升 24小时能出结果 新华网徐寒获批担任九江银行资金营运中心副总经理 新浪财经世卫与非疾控启动超5亿美元埃博拉疫情防控计划 新京报中国公民尽快撤离！中使馆紧急提醒 thepaper.cn"
+    },
+    {
+      "id": "ZWNvbm9teTpodHRwczovL25l",
+      "title": "G7成员国警告：中东战争正对全球经济造成“灾难性影响”",
+      "source": "财联社",
+      "category": "经济",
+      "categoryKey": "economy",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuSlZDckR3YnNndlRPZlNteGNneTkzcG1TR1BCRkhHSFczeDQ1T19HdGRhblVBeUpVWG5yaE4wVjQtVFhyV29iZg?oc=5",
+      "publishedAt": "2026-06-06T01:19:17.000Z",
+      "summary": "G7成员国警告：中东战争正对全球经济造成“灾难性影响” 财联社"
+    },
+    {
+      "id": "ZWNvbm9teTpodHRwczovL25l",
+      "title": "AI成券商投资策略“关键词”",
+      "source": "新浪财经",
+      "category": "经济",
+      "categoryKey": "economy",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY2ZsYnZxMFBrOEFhczU5QlF3MVAzdHo4WmlXWUlUTDlHczluYWhkWkx5dU05QnFzZ1BWaVNpMUFIZ1lBNDF6Mk51UTRubE5tVmh4bHlqbHE3NlROZGFWY0UxOUY4czViajdqUVNxV0dqTFROMnJ1eEdvQmVOZXlVR1ZYZkNSQ3dobGl1NjdrRGd0c2dj?oc=5",
+      "publishedAt": "2026-06-06T00:11:15.000Z",
+      "summary": "AI成券商投资策略“关键词” 新浪财经"
+    },
+    {
+      "id": "ZWNvbm9teTpodHRwczovL25l",
+      "title": "法国世界报 - 中国人不愿消费，已成全球经济需要面临的大问题",
+      "source": "RFI",
+      "category": "经济",
+      "categoryKey": "economy",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNeDloUHB3bW9pYU9BV0JjWkZUcUtJT3RiTGVtSXl0NmZQbEZBRDI0UW9lTVd5cmwzbW5IMTRESWpJM2EzMmstU212TWwzdFlvdWVMeGFlcEJ6TjNIMG5zZTNUd1BYZ1ZPZDcxRzVLLUNxc0o5WEtVNmFJYlg4Z3hWUUJ3Q2lwN0htVi0zaEJtUzRVQnYxZ3pjaWtFd1pMNTc2NU4yX01zLXIxRlVqVUNJcUZ2VFJFRVJsWFMxY2ZzWlFETVM3T2RfemI4OUgyUHFBS3Rub1RyTFo0MnNaMWxweUxZY0xfOUVYM1FGRFFHcmpVUnB1OWRPYXYzVnhrd2tRSWZkRUQwZW1BR3RLMGFXWUFIS3FNMVFBdFFZS29XTGlqQ0NMdTJPa3MtbEcteS02X1VQN2NvLU81MzVDbXhaRnd4YzZsYlJRRHFTWDVNUWxDQ0QwN1B3ODBvY3BFelREdVQ5NXBVUnBLMDI4OVhhNXdOdXNXWjYxQy00ZV9BR3N1ZVo4My1STGxsa1ZpOGtweDNkNGlfMnh5dzNjQnpUdGNjNkRBeEg5WncwVzUzQkROS1VsVjdwNy1lNTk?oc=5",
+      "publishedAt": "2026-06-05T23:03:00.000Z",
+      "summary": "法国世界报 - 中国人不愿消费，已成全球经济需要面临的大问题 RFI"
+    },
+    {
+      "id": "Y29uZmxpY3Q6aHR0cHM6Ly9u",
+      "title": "经合组织：中东战争让全球经济面临衰退威胁 - 法国国际广播电台",
+      "source": "茉莉花新闻网",
+      "category": "冲突",
+      "categoryKey": "conflict",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOQ1JNc3JxNTJUeWJOeXhPYS0zdmFMb2NDLTYtUzZUbFBvbGYxcF9ZNkZGWHcyXzF5UktLOEZkaWNCUnlCeG1JSDUwVnJ0TC1ocmJ4cFVseUk4QzNnOUlwMUl6SlZFbzZvN19tNTJNQ2J4VGkxbmZJMUk3QW1qUDk1czBidTFrcG1UTDRQMG1BZFVJZlpvRHlXOWNhSWhNRmZBMEtTdXo4c1E1dWh6MC0zYU90MDl0S0tiZnVvTGo3ZXBnZ1lTMnNkeDl1b1VRR1huOVVMem1uc29OaHJPMWlWSDkybjFXUVg5dW9LWGF2WmFESUoyTlQxWDAtcGFSRFc1WjFWRURyXzNxVDVQQXlOQ0Rack9VbFhNejVqYjVOcmxIcDBaSzJDb25LUHJZd3VEVXY2S3hB?oc=5",
+      "publishedAt": "2026-06-05T19:09:18.000Z",
+      "summary": "经合组织：中东战争让全球经济面临衰退威胁 - 法国国际广播电台 茉莉花新闻网"
+    },
+    {
+      "id": "ZWNvbm9teTpodHRwczovL25l",
+      "title": "OECD下调2026年全球经济增速至2.8%",
+      "source": "新浪财经",
+      "category": "经济",
+      "categoryKey": "economy",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEVzNWOXBvLUxLdWEzMk9tbTgtZHAtNEMyUmhwMFBnWGNwT1NKRkFwX3NOWUJsWmZrNE5zM2dkaUpscTRlRVo4MXhFd1dINUV5UlBYdXpOUzBxQ0tsQlZNUVVZc1IzV0RjYS1ycXlqa1NXMkp6dXctdEhtbjI?oc=5",
+      "publishedAt": "2026-06-05T15:27:10.000Z",
+      "summary": "OECD下调2026年全球经济增速至2.8% 新浪财经"
+    },
+    {
+      "id": "dGVjaDpodHRwczovL25ld3Mu",
+      "title": "2026全球产业科技创新合作大会暨中澳创新周在上海召开",
+      "source": "chinanews.com.cn",
+      "category": "科技",
+      "categoryKey": "tech",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90UXc4dmFVR0FIM0FvY0NrM0tSSWJzbHhLaVltNnBTdkt1SW5lNnN4b0lxb1RMa25nZUpmQ1R6MVotalpMQzA4Z2lUN3JUNnkwYV9tNDdheHVkVW40N1g3OWJQdWJHbGtj?oc=5",
+      "publishedAt": "2026-06-05T14:16:59.000Z",
+      "summary": "2026全球产业科技创新合作大会暨中澳创新周在上海召开 chinanews.com.cn"
+    },
+    {
+      "id": "Y2xpbWF0ZTpodHRwczovL25l",
+      "title": "财经夜行线0605丨气候与AI双重驱动下 全球电力行业前景几何？",
+      "source": "第一财经",
+      "category": "气候",
+      "categoryKey": "climate",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tZVc3U0tBZjNLbVNGaFdFVV8yMm9BRkVGdUlnV2hTSzJFeG1BMVN0am1yN0VOdTFzM3VwMThnaVpmR2hKWlByYndOSUEtcV9mYWNuaA?oc=5",
+      "publishedAt": "2026-06-05T14:06:05.000Z",
+      "summary": "财经夜行线0605丨气候与AI双重驱动下 全球电力行业前景几何？ 第一财经"
+    },
+    {
+      "id": "Y2xpbWF0ZTpodHRwczovL25l",
+      "title": "随笔丨地球急需“降温”，气候合作更要“升温”",
+      "source": "新华网",
+      "category": "气候",
+      "categoryKey": "climate",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IeW84d3k3LVZmbXNjaWloQjc0OUNaNnZtSWh6d20xbE1ucmVPUlR1YTAxVVJLMWQ4RUdOZFVQenNDY1hyeFlJQVFNSUEwMEVjdXBadjBEWmRDTW5hdy1yblhHWkhHZk1HUHYwa3J3REFPdXNBaEFEeHFneTZDNlU?oc=5",
+      "publishedAt": "2026-06-05T13:41:36.000Z",
+      "summary": "随笔丨地球急需“降温”，气候合作更要“升温” 新华网"
+    },
+    {
+      "id": "dGVjaDpodHRwczovL25ld3Mu",
+      "title": "苏林会见谷歌前董事长施密特：对接国际资源推动越南人工智能发展",
+      "source": "Vietnam+ (VietnamPlus)",
+      "category": "科技",
+      "categoryKey": "tech",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LSDVwcjQ0MzJyRzhLbFg5YUxyRXJPZUZEeHZubHlZeXQ1VVBodmxUbUNldi15MTZQN0xNWlRmZVNEenBWQmljUmE1RFQ5R3dxVHVpLURDY2R3Q1dv?oc=5",
+      "publishedAt": "2026-06-05T12:48:51.000Z",
+      "summary": "苏林会见谷歌前董事长施密特：对接国际资源推动越南人工智能发展 Vietnam+ (VietnamPlus)"
+    },
+    {
+      "id": "ZWNvbm9teTpodHRwczovL25l",
+      "title": "经合组织：中东战争让全球经济面临衰退威胁",
+      "source": "RFI",
+      "category": "经济",
+      "categoryKey": "economy",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNQWY4M3VCUXdQbHMteVN6S2Fvc3dOdmZVNXdZNllaN2NzcHlCSFh4bERXWXZ3VmNtQ3RQZnV1UUs0ZkxQMm9ybGtCYjdNZ2dfNTUzUzRLUUlkTXhUdDNYb2dOSjZ1TjllOGtkdkhPdlhRNFAtLUwzQkpxTFJPTGZzVmFncV9ST092WDZZRjVEQ1FVR19mQTd2MmlXbnJ2ZUgzRVJ4b2JSQThOVGFQT0sxQl93Sm9ldGRkcDBvRUtLdWlUUmRqNFVOZW5kLTRJcTFpekFSUmQ3WFhUOEdCTWtzN2J4QzN2Q0FaZjZIdTFSVDlBa2hkUTAyX3daZlhZSUFsXzRZOXVneEozT2pnckJfZkg0akdrbWxMQmk4ZG85OGV0dmRtNGhnQ0tSNzlCYjUzMUpLRVFzd1hqd1d0czRXY3pMWWg?oc=5",
+      "publishedAt": "2026-06-05T11:16:40.000Z",
+      "summary": "经合组织：中东战争让全球经济面临衰退威胁 RFI"
+    },
+    {
+      "id": "dGVjaDpodHRwczovL25ld3Mu",
+      "title": "“科技创新与自然博物馆可持续发展”论坛在京举办",
+      "source": "新京报",
+      "category": "科技",
+      "categoryKey": "tech",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JM1BfZ0JBdi1wSTBFQmpiX1BuVTZ1eGw4bG5CbUptdWVCYjhmU0VxWGxsVlpUU3FuMWdJTFM0c3dTUE5QTG5lR3NsWWZRUnFVMmNZX3RXWHFrVG1lR2VXRlVLX3Y?oc=5",
+      "publishedAt": "2026-06-05T11:01:00.000Z",
+      "summary": "“科技创新与自然博物馆可持续发展”论坛在京举办 新京报"
+    },
+    {
+      "id": "Y2xpbWF0ZTpodHRwczovL25l",
+      "title": "今夏全球遭遇厄尔尼诺，你的城市扛得住吗？",
+      "source": "21财经",
+      "category": "气候",
+      "categoryKey": "climate",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWEZaX0Z3U3J5TWV5S0FTeUQtRUE4SzJrNE9GcTQwVjA2eU8wempxVEEydGtfUEhWUWJlQmdxXzN4MXJ0M05jTTBtbkM0NnJiZTZtSWExb2JacC1YVlc3VnM1cS1qMkpLSGstRVQxenl6SG01dFBTbU9yNzVWNTQ1TzM5ZUx4TWdDMzFmRzNnWQ?oc=5",
+      "publishedAt": "2026-06-05T08:28:00.000Z",
+      "summary": "今夏全球遭遇厄尔尼诺，你的城市扛得住吗？ 21财经"
+    },
+    {
+      "id": "ZWNvbm9teTpodHRwczovL25l",
+      "title": "普京：中国在全球经济、世界政治及国际事务中扮演着日益重要的角色",
+      "source": "搜狐网",
+      "category": "经济",
+      "categoryKey": "economy",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2V0ZENnYy1yWXZMX3FIOXpNTEpwekRaUUtKd0Y3ZWphYXpucFdyVkxTTk5BV0RBSkgwa1BMU0ZfOThJZlVJeXJTXzJBVTN1dVEtRFJOTEVrc2Q0U1ZCQ2dQSGw1VVViaUdMZ0RGSUZlMGI1RVF3MDkwUDJITVdMWlZYakdkQVdCU0g2MQ?oc=5",
+      "publishedAt": "2026-06-05T07:44:34.000Z",
+      "summary": "普京：中国在全球经济、世界政治及国际事务中扮演着日益重要的角色 搜狐网"
+    },
+    {
+      "id": "Y2xpbWF0ZTpodHRwczovL25l",
+      "title": "2025年度中国生态环境十大科技进展发布",
+      "source": "央广财经",
+      "category": "气候",
+      "categoryKey": "climate",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iMTBlR2R0Q3RrWi1lWjFOR3psS0FBejdCVU5KVm9hZkN5cGczSVlYUURmdlF2UkJqaHpSN3NOOGwwUzVnMkpoZEVRNTllLWtUZW00SnpUNGdOdGZ2NW5iOFg2eTEzSDhUVEI0Yk53QQ?oc=5",
+      "publishedAt": "2026-06-05T07:33:25.000Z",
+      "summary": "2025年度中国生态环境十大科技进展发布 央广财经"
+    },
+    {
+      "id": "dGVjaDpodHRwczovL25ld3Mu",
+      "title": "七国顶尖学者聚津门，共话合成生物学“基础发现与产业加速”",
+      "source": "天津大学新闻网",
+      "category": "科技",
+      "categoryKey": "tech",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oQUc5Q3VHNmZka05aaEw0QVBQQ0RtVzNQX0VmUGpGTFNZRnV4RmhhdlJGcU1yQ0xVMXZKQUFOaTcydFl5MGV5cWRJUnBXN0d3MHB2Tl93MA?oc=5",
+      "publishedAt": "2026-06-05T04:40:48.000Z",
+      "summary": "七国顶尖学者聚津门，共话合成生物学“基础发现与产业加速” 天津大学新闻网"
+    },
+    {
+      "id": "ZWNvbm9teTpodHRwczovL25l",
+      "title": "全球经济格局剧变，大宗商品开启长期牛市黄金、铜成核心资产",
+      "source": "新浪财经",
+      "category": "经济",
+      "categoryKey": "economy",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQTFHUmduQXBpX2ZPdmdqTnpGam44Q3BxSHlUbHRFSTZUOWdFMmRmclJKTG9NSC03M2VTelhmekJsTkpmdk1YZGhEUV90clBKMEd4Y3RqWVhjbHZTNlFCYVREUVkyQTRnRVFDNVZYMU9RNXhaamk4RVA5MERnSXZvWTZLaE9ka2s?oc=5",
+      "publishedAt": "2026-06-05T04:02:00.000Z",
+      "summary": "全球经济格局剧变，大宗商品开启长期牛市黄金、铜成核心资产 新浪财经"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "美军“福特”号火灾视频曝光，“感觉船要没了，要么灭火，要么等死”",
+      "source": "观察者",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QVjBPQW1iWEVWWEQ4VU5mNUJkNWE3N0tValR2WnBfXzA3WVNsbDJySmFweGdqclFDRmNzY2hubDBKYjg5bHB5ckhvNnhTU0F0aUJpTmx0VXBJQlJDcXdSUWttOTdJRWdqc1E?oc=5",
+      "publishedAt": "2026-06-05T03:50:00.000Z",
+      "summary": "美军“福特”号火灾视频曝光，“感觉船要没了，要么灭火，要么等死” 观察者美军“福特”号航母火灾后内部画面曝光 损毁有多严重？ 中国青年网美媒：先后部署到委内瑞拉和伊朗，美军“福特”号航母损毁严重 搜狐网美媒披露：美军最先进航母，至少一年无法再次出海 新浪新闻_手机新浪网美媒称“福特”号航母火灾受损程度远超美军披露 央视"
+    },
+    {
+      "id": "cG9saXRpY3M6aHR0cHM6Ly9u",
+      "title": "习近平访问平壤：朝中关系、北核与乌克兰战争下的世界秩序",
+      "source": "亚洲日报",
+      "category": "政治",
+      "categoryKey": "politics",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13LXBTSnV1UmpHYjhKZk5iNGdjN1M1WnJQQ2RPam1iVWhOU1RFWi10enlYTHFnbDc2UzlWZXFMSUJFLVRRY2hVMThxTDIzUFByc29WWWgtUzFVLWc?oc=5",
+      "publishedAt": "2026-06-05T03:12:00.000Z",
+      "summary": "习近平访问平壤：朝中关系、北核与乌克兰战争下的世界秩序 亚洲日报"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "特朗普政府加强经济封锁，外资纷纷撤离古巴",
+      "source": "纽约时报中文网",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqcExDczY2dUpDU2ZlMjNNR1gzZGIxNWtxSElQTWpZaXZ3VF9pNWY3MnNHQTB5WjFXLWtpRVYyVks3YlNNdk5KZG53bGJQQlUtVjhNZ2w1ZDRaNE1samdtSWpVck85Z0ZQLW53Z3RENFFpdw?oc=5",
+      "publishedAt": "2026-06-05T02:59:33.000Z",
+      "summary": "特朗普政府加强经济封锁，外资纷纷撤离古巴 纽约时报中文网美国对古巴实施制裁，包括其总统 美国之音外交部：中方坚定支持古巴维护国家主权和安全 新浪财经美国制裁古巴国家主席 古巴外长回应 新京报欧企仓促逃离古巴，“美国制裁面前欧洲像只小狗”-观察者网 观察者"
+    },
+    {
+      "id": "Y29uZmxpY3Q6aHR0cHM6Ly9u",
+      "title": "国际｜普京：有理由认为俄乌冲突已接近结束",
+      "source": "新京报",
+      "category": "冲突",
+      "categoryKey": "conflict",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ma2JhUnpGVTRKTG8xSElqZFpUMjlrZG9GSV9DaGF3YzVhVGpDNFVZQnVCVHNLTmlTTWVFZjZZYnhkV1FiQjhXOUt2ZG9JMjA1NXdJakE1YVM0UGhSaFl5VFRn?oc=5",
+      "publishedAt": "2026-06-05T02:26:23.000Z",
+      "summary": "国际｜普京：有理由认为俄乌冲突已接近结束 新京报"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "韩国地方选举：执政党大胜，但在首尔落败",
+      "source": "纽约时报中文网",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLTJOTWVvd0FtZkdyUl9oY05yOHYtTjJrdEhTWEJjc1djdVktUDUzdnh1ZGhuWnFfSTlCVlE4eHdJaWdSUUF0dEpkd2s0cGItVEFMU1J4WDJEekRrOHNUc2ZHeVlkdUV5dkphRGJWUm56NXhjZngyTVRyTS1BQV9LWlNHdWxoZw?oc=5",
+      "publishedAt": "2026-06-05T01:44:51.000Z",
+      "summary": "韩国地方选举：执政党大胜，但在首尔落败 纽约时报中文网这个投票结果，说明尹锡悦的反噬效应还没完……-詹德斌-观察者网 观察者韩媒：韩国地方选举执政党锁定胜局|民主党|在野党|李在明|国会|庆尚南道_手机新浪网 新浪财经赢得不彻底？李在明任内“首考”过关，股市繁荣背后隐忧仍存 第一财经韩国第九届地方选举进行计票--国际 "
+    },
+    {
+      "id": "Y2xpbWF0ZTpodHRwczovL25l",
+      "title": "适应气候变化，守护你我健康 | 世界环境日",
+      "source": "Sina finance",
+      "category": "气候",
+      "categoryKey": "climate",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtR19yNXBnOVZqTTBIVlVBY1R6cUVCcFdDN1JlcjhkOU14MnpiVjEzWU9qRzdqZ1dfWTRKODNLNXlNMmFlU01pV2hWTkxua3d4S2RUYmVPVmlJTlEzZHFvd3lqLW50am1ieVlyeTdtOVR6UW0waEc1Sg?oc=5",
+      "publishedAt": "2026-06-05T01:09:00.000Z",
+      "summary": "适应气候变化，守护你我健康 | 世界环境日 Sina finance"
+    },
+    {
+      "id": "cG9saXRpY3M6aHR0cHM6Ly9u",
+      "title": "国际政治与传播学院组织师生赴国家版本馆开展主题党日活动",
+      "source": "北京语言大学新闻网",
+      "category": "政治",
+      "categoryKey": "politics",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54QVBiSVRKUUdZZ01qamtJVDFheWpfUlVkU080TDJjWXBtSHI0NWVCV09wbG9KMWlvb2dRalQ5S25ac3lkVERELWFLT2htN3lrVGw1TU8xSQ?oc=5",
+      "publishedAt": "2026-06-05T00:40:59.000Z",
+      "summary": "国际政治与传播学院组织师生赴国家版本馆开展主题党日活动 北京语言大学新闻网"
+    },
+    {
+      "id": "Y2xpbWF0ZTpodHRwczovL25l",
+      "title": "院士访谈丨中国工程院院士张强：提升西部气象科研软实力",
+      "source": "中国科技网",
+      "category": "气候",
+      "categoryKey": "climate",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xWXRWQWMzYW5yUU4zR1B6bWlMdV9EQjhDVXFXVjhNdkh0TjB3cm1wS2VEZXIzV1Q3cEViQ2tESEN3LTR1WE1hZ3Y4ODRia1BhMVYxMm81NndGdWhDOXdQVUpwSENjbUxFNmU5R1RJcnM?oc=5",
+      "publishedAt": "2026-06-04T23:37:22.000Z",
+      "summary": "院士访谈丨中国工程院院士张强：提升西部气象科研软实力 中国科技网"
+    },
+    {
+      "id": "Y2xpbWF0ZTpodHRwczovL25l",
+      "title": "宝通再添“A级”荣耀：供应链气候行动获CDP最高评级",
+      "source": "同花顺",
+      "category": "气候",
+      "categoryKey": "climate",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOYnJtU2xUcTREZ3FyOFhmSk1lYS16blR3VXlGNWxudDV6QVZTdEdjdHZhVzBBZy16YUtrNWRaN1BkMW5yeXpmcEQ0SmtJRkJ6ZlZYdEhTMGdsSlc5WXc?oc=5",
+      "publishedAt": "2026-06-04T22:36:57.000Z",
+      "summary": "宝通再添“A级”荣耀：供应链气候行动获CDP最高评级 同花顺"
+    },
+    {
+      "id": "dGVjaDpodHRwczovL25ld3Mu",
+      "title": "55家国际科技组织落地北京，推动基础研究开放合作",
+      "source": "新浪新闻_手机新浪网",
+      "category": "科技",
+      "categoryKey": "tech",
+      "url": "https://news.google.com/rss/articles/CBMihwxBVV95cUxNMFRWdHhnZHVkN1pINjJVaThobXk4Mk1UNTByZjVRNnZwbEJfT0dvTmNnWDlYeFBFQzdHdjJhTU5tbUpLZERSa1FDQ3dYTDZPLVJhX3NoTl9DRGF4MmRraVJCWno2Y1pZUHBVOWh0QTRDYmVlV21JakhiSVdxNlhpdHE1R0ZkRV9qS003bWxPUWVUa1FJelJWTVNTU3QtVy1uRkdmRlRGVUgyUWhNdy1kdHNNd0p5dlE2aWVISEUxbjRRMW05WkVVcVlJOTI1aHJTcUxGOE15MmNoT0o2ejR4aDFlU0Rqd2x3TXpPRkhLRWtZcHQ0ZERNS1hKRFpHZXkxM0RHOG1hbXVjM1RMM0Z2MFBZbUNsMzc1dnYtM1JNUHE2RTQwdk1RYXROTVFuOFhlZmZNdExoY3FtRFQ5d29qQ1hrWHZLWGZCb1UwUHBnNFdJbkxyUEdIcWd4V3JqS2xBdXNRb2tUVUdnNGdBQzR6UjcxbmJVcGFlcElZU1RNTXpsQ0loOHdtTWFkMTVvRGtvRDc1bExpUWtRTGpEVXVWY3VWZG1kTjl5M25JNVFCOFpCUmFBZU1aTk9vSFlKcjUtN3Jxa3J3RVRWaktTZklOc0xKNkdjcDQ0QlI4SFBna1IzSXlUQk9PWDlpbUw5QTc2ZlZ6V3doQnZqbllVZ0RRdE80dUpMYkd4VmFhdkhNMURFN1I1eVlmWnhuNjJfNEF4d2J2WVozN2VzeElna01xZHVnR1dkcU9oNjVHYTlzZ2x1ZlhyU1Z0MzFreFBRM1VIZGk4QnJEX3JuREkwVDZMYkd0ZzltajZrdEc4ZlRyRE1qSHZVN0FXQUZPQkowYUpId2tBY2JMMl9iSUdaelZvc2JZdmNhVTJvR1FtUkNaTVViSFVjbU5tOTBseGQySVV3ZTd3M3gwQXJsd0s1dGJlVzFTX282aUdrM2FJTVltZlZkUW1qRkhpeHd1U3NYQXhwNFZDaV9KVXBEYWtrdkFuMFpDWTRXMUR4Z2xGdmEzYVl6M2xkMGU3dVk3TWF2MGdYSTlzb3BTeklsbjljSUtlOXdGSFZtWUMzVml6Y21Pa3ZvVHVEaTc2ZzJ2U01heTV1TjE2aUxnQUlUUFRycEw2Qk9ocnpXQ1Q1dDdTNHVDT0JsM0RGZ2VNNmY3djNxdkNtNm1pSmdQYWRMRmZfOVh1d2hKV2ZFT3FxX0M1NHQyOEJjZnpVYUVHT2MtbVVJbGFCcldFZWQ3M1JuX2JtNy1YU1VXRURPcjliVEpuRkMxeU8zRURCS21qOHZXVFNuRS1iNkFXQlN2UjFmQl96eE5iWEJRaktRLUtyU3M4enNGSGR1OE4xenRyTTUzbWpiel9ZNnV3LXREVV9UaDNCQUx1ZGs2b3AyMEczUl80bk9HNEJzdV9EaV81NzQxVkNJMVoyYk5SZ2VCakFBVmlPMWVnRlg4bzNJV0JMQmpiUlZHVU1FZ3UyWHdJcnNnWHFhNklUZG53a2VEaFVQWFpqeFVSMTZPQnFBNjhEdXNFeURsRGtvUjcxNVRQdjctRFlnVzlYNUFwbVJxcXMzQjU4Q2tNMnNfY2lOZVVDWndpOUl0RnhNX2xGOXlJLVdWdFdqOUpuLVpLaXp5bkxBSzdJOHBNSzJxQ01DOUJiTXA1RVBYbU84ZktsM1VwTERlRnlnUDJ1UTdraXJXd0MxY3htZVNMTnNGSjFYdUtsaG15X1g0dVI2NUQzOWJOV1JIbzNETDZRd1dQaGV4ek1fd0JwazNIVXRLM0tDeEF5b1h0bm5tVkxxUXZJa3Z1ZndDYVlKTnFFR1Z4RG5rbDhEVjdjeEl3ZFlUc2JYS3lRaEpjYVZzaW4zUm83eWw4T0p0d2o4a1lSYlpkbnhQTDBMZHlrSDU0c1N4b09sc1BIY0F5MXYwcS1CVGF0RDhuTkRCSzQzVkxjVzdCQ0VzTzY5czAxRG0yYnhUb0RicE8zd3R4QlpDcmJxR3lqb1lRREVSNnZoRkRyUkVnaU0tVEp5UzYtbjUzcmxydDRrZmREcE5HaEIwbXJyTmU3Qk9F?oc=5",
+      "publishedAt": "2026-06-04T17:48:51.000Z",
+      "summary": "55家国际科技组织落地北京，推动基础研究开放合作 新浪新闻_手机新浪网"
+    },
+    {
+      "id": "ZWNvbm9teTpodHRwczovL25l",
+      "title": "新华社快讯：普京表示，中国发展强劲，在全球经济、世界政治及国际事务中扮演着日益重要的角色",
+      "source": "新华网",
+      "category": "经济",
+      "categoryKey": "economy",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IV2s1ajBNSzdxYUprYm00RVBnQk13OUxwUUxhOGxsZFA3Q3J5U2w4TTAzb2dxYWdDVWt0QnJzMjhYRC1Ra3BNUGhpSC1wOTktcVkwb3Q2MFlwMGY1Z1RseTZGdmROTWJLd3piWG5kRXlubDh2S0VHUkhnbmtoMHc?oc=5",
+      "publishedAt": "2026-06-04T17:45:25.000Z",
+      "summary": "新华社快讯：普京表示，中国发展强劲，在全球经济、世界政治及国际事务中扮演着日益重要的角色 新华网"
+    },
+    {
+      "id": "d29ybGQ6aHR0cHM6Ly9uZXdz",
+      "title": "第一轮即出局：德国竞选安理会席位何以输得这么惨？",
+      "source": "DW",
+      "category": "全球",
+      "categoryKey": "world",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOSjFaaldYc0dPSGVTYWR6MjZrX3dXak9qN3RDOHI4R2FrZkxkNW5pcy0zMjZ3UXN1SFlVZG9qRkloOGJsaTM5d3lISk1aSENtdl90X2NsMkFsbElHQVl1TWREYThOSzRkNDg4WmdZTGhYVm85MnJ5dUsteFhZZ0hHVGVrdUd4Ni1MY2hDN0lrYWszQVZSRlVDTWtPUkRhRjVlRGNnbjMwWEh1TTdwZTl5Wk80cVdHX2ZkYlhybW1oa1FoZy13eDRPb1RpdERNMGY5OVk1VVladGpTUFhHQXN6NGx4cll4ZGFaSkptWXFFMmgtYm9vQlJuMUo2LTJmbnEzWUJkVlZTd09GT3c0Qnh5a213RHh1MnEtMXVITDVLUDVZaHdqMXZvUGtMTVdVOHZzQ3AzaFBGcTRST1ZYMjlEdzVfX0FDOFhNS2piV3NUUnnSAdACQVVfeXFMTzVaTFJYZnkwR0VQanNsVnB1X2Q5U082V3VIQXQybzMtQXFLR1FGNlBWZHlMNDRLUkFGZzYtMEk3UjRWZmpYWVNaUFA0UlUxNEFMWXF4ZEZSZGFUbmdxbnFJZHg3QTMtQ0xkNDRqUFlSb1hWd3lwaVZiUkI2NEhRX1QzamxDN3ItRDJLMWFCYWJoS2dzZG1jTkM0V2RDUzVEbjNUazRnSWtSUDdRYzAyOEhYb3hiU2piUUdtOGpOZXJtcjlRd2VEam5Wa1ZJQ29IcWYzbkFCYkh5YVZjbzNTQVJ4ZnlnakxsdndvazdFMzNCMFNuNkpnZ2h2Sm9qb3FTWDQ1ZFdZZnBOcnMyZEFxSXZzcmhCalFFM0JGaTZFVmNVb2VjamlPcHVSM0tHZTMzelNWN3NpTTFFUjNhVndGTGd2NDRKakNnMWZUS19OYVdx?oc=5",
+      "publishedAt": "2026-06-04T11:47:41.000Z",
+      "summary": "第一轮即出局：德国竞选安理会席位何以输得这么惨？ DW德国人震惊了，这真是一个黑色幽默 凤凰网49:142票惨败！马科斯的安理会梦为何碎成渣？ 风闻专家解读菲总统府回应落选 菲律宾落选安理会非常任理事国 中华网足足差了93票，刚拿到高市支持的马科斯就这么栽了 搜狐网"
+    },
+    {
+      "id": "ZWNvbm9teTpodHRwczovL25l",
+      "title": "世界经济论坛：地缘经济碎片化或致全球年损超3000亿美元，美国工资降幅最大",
+      "source": "chinanews.com.cn",
+      "category": "经济",
+      "categoryKey": "economy",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiM08wSEMwZEJ0eS00aWRtbWFLcnY2WE0xWTA4M3VvZUg4cDZNSFhWa092djRTLUVwcjB6Nnk5RnBaX1VUTkR4Y2lEWEpxSGNOQ1NEN1NROXJCbjN2M1hqdHlJdkxTZVJr?oc=5",
+      "publishedAt": "2026-06-04T11:27:25.000Z",
+      "summary": "世界经济论坛：地缘经济碎片化或致全球年损超3000亿美元，美国工资降幅最大 chinanews.com.cn"
+    },
+    {
+      "id": "ZWNvbm9teTpodHRwczovL25l",
+      "title": "世界经济论坛：地缘经济碎片化每年或致全球损失超3000亿美元",
+      "source": "中国网新闻中心",
+      "category": "经济",
+      "categoryKey": "economy",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKZDR0Z0RxZF9mZDhqQ3BhTi1sclV5LXZzYnlKOFhSR1Z1dG1qSlMxSUpDX05pTWIwOG8xaHo3YXZJMnRfa2pUTmk4LVZHcXl4N3JzSHlXRFItUkxVUGJ5ck5FRFZnb3FLdnpJ?oc=5",
+      "publishedAt": "2026-06-04T08:47:00.000Z",
+      "summary": "世界经济论坛：地缘经济碎片化每年或致全球损失超3000亿美元 中国网新闻中心"
+    },
+    {
+      "id": "Y2xpbWF0ZTpodHRwczovL25l",
+      "title": "世界气象组织拉响警报：6-8月发生厄尔尼诺事件概率高达80%",
+      "source": "财联社",
+      "category": "气候",
+      "categoryKey": "climate",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8yMUxQR3JrUnhuLXZKSTVPZlFFSUhfemFmTkJzRllSRDlQcGtlQUp6Y25iZjBfQ3A3dXRCUS1LUjRXX3VFY0NoSQ?oc=5",
+      "publishedAt": "2026-06-04T03:39:10.000Z",
+      "summary": "世界气象组织拉响警报：6-8月发生厄尔尼诺事件概率高达80% 财联社"
+    },
+    {
+      "id": "Y29uZmxpY3Q6aHR0cHM6Ly9u",
+      "title": "FPG财盛国际：中东冲突再升级、特朗普向伊朗发重大警告！",
+      "source": "黄金网",
+      "category": "冲突",
+      "categoryKey": "conflict",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VbVd0T1lYbUtBRVhxWlN6bmRwb2VNMzhlbmN2eFJGUVFDZkdVUlJhbzU1WmxJdzBnS1psV2ZaSHdIX3ZxdFpFZWR0UjUwQlM2UWNBb1ZFd0pfaFJlVk13dUQ1RHJabnpYQmlvag?oc=5",
+      "publishedAt": "2026-06-04T03:15:01.000Z",
+      "summary": "FPG财盛国际：中东冲突再升级、特朗普向伊朗发重大警告！ 黄金网"
+    },
+    {
+      "id": "Y2xpbWF0ZTpodHRwczovL25l",
+      "title": "特稿丨践行气候之诺 中国同世界共绘绿色未来",
+      "source": "新华网",
+      "category": "气候",
+      "categoryKey": "climate",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rM0tvQzJaTzRvUEw4MGxIdlUwOHB1QS1sRkh1UmFaMXQ0YkFtemF6UkthUlhESDNXaDJ1WU9ab0V6OFJRaVNwRU1BUTN3ZEhoZDI0dzhpQ05iZFp6WG9hV0FGNFlkMU9XQkV0QTluRm5ObTZDOExwc3RlU1N6LUk?oc=5",
+      "publishedAt": "2026-06-04T02:54:10.000Z",
+      "summary": "特稿丨践行气候之诺 中国同世界共绘绿色未来 新华网"
+    },
+    {
+      "id": "ZWNvbm9teTpodHRwczovL25l",
+      "title": "经合组织：中东长期战乱或致全球GDP增速仅2.1%",
+      "source": "日经中文网",
+      "category": "经济",
+      "categoryKey": "economy",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTzdreHdxaUVwZUtWQkZOQzB1dEM0M1p0bHZtcUFDelRub3IwV3FHMFUzQWYxYV9KZHRUWXpoN016ZUtyX3lUZGFWRG9oNmxhaUNjZ0N2RGoyMEMzU0VTNjY2MUVkdFZCa0d1cmg1ZkRzUnZJWTUxTmVkQ3RSSXNpMU16NFdGQQ?oc=5",
+      "publishedAt": "2026-06-04T02:51:10.000Z",
+      "summary": "经合组织：中东长期战乱或致全球GDP增速仅2.1% 日经中文网"
+    },
+    {
+      "id": "Y29uZmxpY3Q6aHR0cHM6Ly9u",
+      "title": "鲁比奥坚称\"美国赢得对伊战争\" 伊朗强调谈判“毫无实质进展”",
+      "source": "RFI",
+      "category": "冲突",
+      "categoryKey": "conflict",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNdzBFVG5oMXV1MDBIcmVqTVlVdnlFVWVpX3V5MzVuZFptcTYzcGVHYzZVV0pRWWxsNlV6VGFRMnpqTDNwWG9MTlRDS1ZWS3BoT0RnbjJraVNtVE5KVi1NdnRqNkdwcU5hR3V5TDZCcThZb1AwWThOaElXTUk0NW9aV3ZRRUZLc3Q3bmc0MndEbnE5MHBnZU9RT0pGcXU1ZUV3bEFLUy1FVlVuUVdTZFBLdE9vN3hTN21Ea0NQbjhHdFFkS0xVR1JKM3hsNXY3VlB1UmkyN1ZwVFFkLWZKZFpVbXBSdmJEeFY4aTN4S0RtemJDRlF0by1ScUJsTjc3UWJnaWdOZlpwZFA0bkwwd0trX3JIVmRsSFpVSk1YZmtrRjNRZzNneEhoajVuVG1xTTNuZlVvT21oUDVwVDJ0aU5Ed0Q0SmdpeWN6dE5xZVpKcWdPOW0xbHJqeHJEOTM2T0dQUTdzODFTQUk0SDVhcl94T3J5TktkZGw1WTZrMmZzZEh6ZDdTZG9nakJ6M0JEOGM?oc=5",
+      "publishedAt": "2026-06-03T21:21:14.000Z",
+      "summary": "鲁比奥坚称\"美国赢得对伊战争\" 伊朗强调谈判“毫无实质进展” RFI"
+    },
+    {
+      "id": "ZWNvbm9teTpodHRwczovL25l",
+      "title": "美伊在中东再次交火 经合组织下调全球增长预期",
+      "source": "DW",
+      "category": "经济",
+      "categoryKey": "economy",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOQXUtdlpWTnVjdmhkOUR2ZzJWbnZISkZCMG43V3pfaG1DNGwyaWhua1NjU2ZNcVhfbFhQSUNnN09DVFVrME9GUXcwdmtVNlB4OFJZMm9udHZYdkVVbG5lTzJCSWhjRGRhRC1BWWFkOEtPdEI5Wlo2MkJ6REJ4c0JQaTVZdWlTR2dCNmhZMXFPWm1sa3N0Y001aE5vdXJoVTQwWHlka3AwMURlNXZ2UU5FWkxNQmNyRTFnQ1JHZy1kaGNOeUkzVGhuVVF2Q3N6WDc4YXpuQzdydUNQd3I4dlhxcUlfU1U3Ym9vU0REaDhJLXUzTUZ5OGtraG1zaUhpblR5eUFucUNZb3dnbzN6am5LeVRWdW5FLXpiaFNzRmNpSzJjS3drQmQtc1dRbGp0bzNrWC1nQmhnUUlvWFl4VEJKT09tajMtQdIBxgJBVV95cUxNOG1ZUHdKYi1EdjNoQVRJclBJbG53aklvUW04d05makRtcGhzUHNaQWZ5LXhhMFpJUGVjN3NCTS1OcmxXQTA1NU9pZVVwdVlvclR1YS1iaDlvUEtpZEhmS1VrN1N4LVZ1UkJDeUNZQ1h3cUhxZkVjV25hZ0JDTFkzYVFUdFJIT0tFZ3pJSF9nRTFJQ0huRWppa2hyWWN6Ym1GTWpleEtJbFA3RGRMM2VFUXljVm9LQTdmZ2l3dklNeFI5cVRKdTlfc3YzNjg2V2R6eU4wdVM0T1NYUXJ4R0lDQzNtdGtoZUVlLTJSSzhlcWJNX3RBVEhYeHBiazNIUmdzV2xGMURMMGZQMnlCNUZzNDVQM09IeHk3NUFMcVVBdGVUVVJONklZNHNVb3BOWXNTXzJkVTVsSlVfVnF0SVZJajVNXy0zUQ?oc=5",
+      "publishedAt": "2026-06-03T14:25:20.000Z",
+      "summary": "美伊在中东再次交火 经合组织下调全球增长预期 DW"
+    },
+    {
+      "id": "Y2xpbWF0ZTpodHRwczovL25l",
+      "title": "80%的可能！世界气象组织最新预警“厄尔尼诺”现象",
+      "source": "jwview.com",
+      "category": "气候",
+      "categoryKey": "climate",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51NHVDNDRwTkUxUGlsYU5ZNnlqaDRYcURHd195Z1pYWHJCUkpvNWpzN3IwdTNhb0lYaGVfYVJ6VWw0ZG5BVlN1RzFiT1RkXzNHZl80WDVKNmJCYkF3RHlYMkRzQTNHT28?oc=5",
+      "publishedAt": "2026-06-03T12:00:26.000Z",
+      "summary": "80%的可能！世界气象组织最新预警“厄尔尼诺”现象 jwview.com"
+    },
+    {
+      "id": "dGVjaDpodHRwczovL25ld3Mu",
+      "title": "【开局“十五五”】电子科技大学共同发起成立国际智能感知学会",
+      "source": "电子科技大学",
+      "category": "科技",
+      "categoryKey": "tech",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lMzJaQ2wtdWJ0SzdBdHd6ck81TXlBWDZDMEJkZ3hZWXhMb3hpQXg1cThJZjE3SW1kbmNwWFRWbVNwWXQ3RGI1REJzLW9EUjE3dVU3c1VkOHE?oc=5",
+      "publishedAt": "2026-06-03T09:42:47.000Z",
+      "summary": "【开局“十五五”】电子科技大学共同发起成立国际智能感知学会 电子科技大学"
+    },
+    {
+      "id": "Y2xpbWF0ZTpodHRwczovL25l",
+      "title": "2026世界环境日主题活动在京举行 呼吁“为气候争分夺秒”",
+      "source": "新浪财经",
+      "category": "气候",
+      "categoryKey": "climate",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbTZicmJpcGZSTGk1MmJ0a0ZnNEhudTg1enBNMTlBemtrbV9YeWhRUXNWS0trMmFReFRHUHpPelphaEEwYklPVS1jdmkwdkh5TXpKV0VRNTI2Q2pyYlYxQ3ZLbHJwUUpjeHNteFRGandsT21zdjd3YmlBNEVUcWtyZTBURWhuRWlqVUpKMHc3cy1Lak9UMGQ3dkRZT0JaYzhodmFhZlFwTFNaT2kwUmdwRmo0ZGRhRHlheER6R0NtMkxveVQybHVCYXUzOE4yQV8yNVlJZzZOcnpmZGdwZkQ2eUF1dHZKNkMyZ3NzRW5kT0hrcTdhRjVUenpjRjZwUFhpdVdF?oc=5",
+      "publishedAt": "2026-06-03T08:27:03.000Z",
+      "summary": "2026世界环境日主题活动在京举行 呼吁“为气候争分夺秒” 新浪财经"
+    },
+    {
+      "id": "ZWNvbm9teTpodHRwczovL25l",
+      "title": "新华社消息丨经合组织将2026年全球经济增速预期下调至2.8%",
+      "source": "新华网",
+      "category": "经济",
+      "categoryKey": "economy",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmNQSEJoblM4RERpSkhWVFFRQWcxY2lOVzlmRmM0S2w5bHlVRTJ1WG5vUmpjdUZPOGdOWS1fYjdTbFo4ZDNTNXpMVTV4eC05akNrQVNFS0FuQTlaYV9UVkwydEpkNFloZnloenpnMXIxQktiaHUyaFVJSlV4b2lhQlQwQzRoZzZhdldCNzQyRVZmM0phdHBqY3VB?oc=5",
+      "publishedAt": "2026-06-03T08:08:10.000Z",
+      "summary": "新华社消息丨经合组织将2026年全球经济增速预期下调至2.8% 新华网"
+    },
+    {
+      "id": "Y2xpbWF0ZTpodHRwczovL25l",
+      "title": "厄尔尼诺事件出现概率极大，联合国呼吁全球采取气候行动",
+      "source": "京报网",
+      "category": "气候",
+      "categoryKey": "climate",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jRUE2XzFzZ2pRRy1HVDJEcVNxRTJMVHZIN2dDcE44SDNEalBlLTJ0bUpiUy14ZUJVN3ZyYUlkdFVPRDhBR3dmNktlaDJ3MmVyWmN2cFVRam40UmpxdWc?oc=5",
+      "publishedAt": "2026-06-03T08:01:00.000Z",
+      "summary": "厄尔尼诺事件出现概率极大，联合国呼吁全球采取气候行动 京报网"
+    },
+    {
+      "id": "ZWNvbm9teTpodHRwczovL25l",
+      "title": "经合组织下调2026年全球经济增速预期至2.8%",
+      "source": "21财经",
+      "category": "经济",
+      "categoryKey": "economy",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaExvOXpCMnVVdnZMR2NxeDJzbHl4WEhkaEh1d1pOc1hjQmlzdEpnU1UyMk1kMWFvZGtxbExqNDhqSHp4TWpmblJROXZBRzRkbW10VURSY3AtQzVZRnV1THpkRkJESm5lcXYxTU5ROVRDRC1CR2NYTF9FZlFkMWh1OGlwTTNncUI3d0lLTl9vNA?oc=5",
+      "publishedAt": "2026-06-03T07:25:00.000Z",
+      "summary": "经合组织下调2026年全球经济增速预期至2.8% 21财经"
+    },
+    {
+      "id": "ZWNvbm9teTpodHRwczovL25l",
+      "title": "经合组织将2026年全球经济增速预期下调至2.8%",
+      "source": "东方财富",
+      "category": "经济",
+      "categoryKey": "economy",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ocFJOTWZPa1BvQ2V0cUQ5SDhPMkp4eDAwWkFrVENtRVFwZGotc1d3OHNkaEV1VTdJeTYya3Z2WFhQNG5XRTdjSDFISnRXNVNOVmJhZ1drX3Z1cEJPZXZrSnB5RVVGdw?oc=5",
+      "publishedAt": "2026-06-03T04:21:15.000Z",
+      "summary": "经合组织将2026年全球经济增速预期下调至2.8% 东方财富"
+    },
+    {
+      "id": "Y2xpbWF0ZTpodHRwczovL25l",
+      "title": "气候临界点加速逼近：从印度热浪看全球极端高温的严峻现实",
+      "source": "thepaper.cn",
+      "category": "气候",
+      "categoryKey": "climate",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByZXIweWp3dVBDZTFhNFFPVkhnZWVtMEVyRlk3eEFFd3dHQXRWSGI2clJqRE8yYmNUd09nU3RlWlRXS1NwWnJvRkRwMkV6Q3BXZkk5YV90Vk52MTJBSkE?oc=5",
+      "publishedAt": "2026-06-03T06:40:00.000Z",
+      "summary": "气候临界点加速逼近：从印度热浪看全球极端高温的严峻现实 thepaper.cn"
+    },
+    {
+      "id": "Y2xpbWF0ZTpodHRwczovL25l",
+      "title": "异常气候或将成为新常态",
+      "source": "南方日报",
+      "category": "气候",
+      "categoryKey": "climate",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ja09XZUVuYkxqR2FjTDBuWWpNcy10N1RUb2ZreEh6UHBGcHNzaDBPSDl1aFBJRk1sdm9tM0VTbDl5TzdNVjFtOC1DYlVoM2tWbFpVNUlUWGVMYlVxUUk4Sy10ZXM0eUo5SEZRWUU4UTY5SXljOFJzR0JR?oc=5",
+      "publishedAt": "2026-06-03T02:40:50.000Z",
+      "summary": "异常气候或将成为新常态 南方日报"
+    },
+    {
+      "id": "dGVjaDpodHRwczovL25ld3Mu",
+      "title": "一图速览！郴电国际科技创新战略",
+      "source": "同花顺",
+      "category": "科技",
+      "categoryKey": "tech",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1adTBkNnhRSGZoLW9pOGh4MmpYeTdUVGgzb044aTR1M2tYeUlwNjgxaHdwdDd2eE1PT3ZTeWpzazl6VHdfY01QSWFpTXpRZ3lNVmVFTTZfRGZJNm1tQUE?oc=5",
+      "publishedAt": "2026-06-02T15:07:39.000Z",
+      "summary": "一图速览！郴电国际科技创新战略 同花顺"
+    },
+    {
+      "id": "Y2xpbWF0ZTpodHRwczovL25l",
+      "title": "世界气象组织：厄尔尼诺正在形成 全球极端天气风险上升",
+      "source": "UN News",
+      "category": "气候",
+      "categoryKey": "climate",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOdDlwaFdqcDRZR2htVGFmUV9PNzJ4Q1BhYXo0dmd6SXZNVmhVZFA2ZVY3SmtQMVFadTBuS09tZWVGSFlwY2E1QVczcFBTXzZLaUJYUHMzMA?oc=5",
+      "publishedAt": "2026-06-02T15:07:29.000Z",
+      "summary": "世界气象组织：厄尔尼诺正在形成 全球极端天气风险上升 UN News"
+    },
+    {
+      "id": "Y2xpbWF0ZTpodHRwczovL25l",
+      "title": "聚焦全球气候治理 彰显中国方案智慧",
+      "source": "中国社会科学网",
+      "category": "气候",
+      "categoryKey": "climate",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1RUZBdTdycktybTJzVXNaSHlBYTNJNVRqRXp5U2lXamJxbHpsc0ZvNHBLeURIV0w0d1N5aGdKSTJSZXJpRkFRaVljQ1k4U1Vydmp6My0zaHpSd0VnQk9NZ1lYakMwd21qWGFLS3VwOU1fT2N3aUE?oc=5",
+      "publishedAt": "2026-06-02T07:47:04.000Z",
+      "summary": "聚焦全球气候治理 彰显中国方案智慧 中国社会科学网"
+    },
+    {
+      "id": "cG9saXRpY3M6aHR0cHM6Ly9u",
+      "title": "从侨批到慰安妇：记忆、历史与国际政治 | 谢喆平",
+      "source": "Sina finance",
+      "category": "政治",
+      "categoryKey": "politics",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2Q0TFp4SXlpWGxwcGRMOGNpOEZUS0dqV2NPZ3RSYXREWS16ZXdITEx1QWFxY1F5ZzFLd1FkRk5Dd2luNUdJOHBzRDR0eXc4WFV4cmxqWkNLeFdMSU1weHJHSDRfeElmMER2RXQ3LXVYUzl3X2d2alhqcU5ONm9sUXZEUHF6Ulk?oc=5",
+      "publishedAt": "2026-06-02T04:05:00.000Z",
+      "summary": "从侨批到慰安妇：记忆、历史与国际政治 | 谢喆平 Sina finance"
+    },
+    {
+      "id": "dGVjaDpodHRwczovL25ld3Mu",
+      "title": "科代表vlog 一家国际科技组织落地成都，如何与城市“双向奔赴”？",
+      "source": "搜狐网",
+      "category": "科技",
+      "categoryKey": "tech",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50MTkwZGdyU1hyUXg4amc3cjZtS2VxdEN6MVBVdVExS25MUjhMa0dEa0tlSi10a3E4VU9wUzVYTlVhXzhfWTh0aXBWZVppdHc?oc=5",
+      "publishedAt": "2026-06-01T21:56:49.000Z",
+      "summary": "科代表vlog 一家国际科技组织落地成都，如何与城市“双向奔赴”？ 搜狐网"
+    },
+    {
+      "id": "dGVjaDpodHRwczovL25ld3Mu",
+      "title": "金茉亮相“亚洲CES”BEYOND国际科技创新博览会",
+      "source": "inewsweek.cn",
+      "category": "科技",
+      "categoryKey": "tech",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LejB3S2lKWmQ1cGVYWkdoYVR0cHdjUlgwOXE4YXE3cFVOZFFYZzRlaGpzc2hPamswMmVNNGNjamZwOGxzcHRES1RNbVZuNzA4V28xMVpJOW1pbjhOajRqQkpWajE?oc=5",
+      "publishedAt": "2026-06-01T06:19:27.000Z",
+      "summary": "金茉亮相“亚洲CES”BEYOND国际科技创新博览会 inewsweek.cn"
+    },
+    {
+      "id": "cG9saXRpY3M6aHR0cHM6Ly9u",
+      "title": "国际政治与传播学院召开反诈主题班会",
+      "source": "北京语言大学新闻网",
+      "category": "政治",
+      "categoryKey": "politics",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OVFFxUUczVmJfaFhxTjE1Y0JZcUV3YUlYc2RrRkVmUlFuM25kYnRDYmNSNzNwWTRFRXlhT0lyTE5kZTZ3VVNuZ3c3WmdVZzUzRzVlTXhsbw?oc=5",
+      "publishedAt": "2026-06-01T01:00:13.000Z",
+      "summary": "国际政治与传播学院召开反诈主题班会 北京语言大学新闻网"
+    },
+    {
+      "id": "dGVjaDpodHRwczovL25ld3Mu",
+      "title": "30家龙岗企业亮相BEYOND国际科技创新博览会",
+      "source": "gd.chinanews.com.cn",
+      "category": "科技",
+      "categoryKey": "tech",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KZlRBaTktM0UwWndvWGY2aXkxQnh0em8yNWNIXy1ELUdPcTQ5S1RBMnRmX0d0VEtVVGpRWmtHd2RVR1Rhbzc0eXhDVWE4ZnJDQmhaQlpEZHJpQ2lza0s4TG1pSVd1bmhUa0Rj?oc=5",
+      "publishedAt": "2026-06-01T01:00:00.000Z",
+      "summary": "30家龙岗企业亮相BEYOND国际科技创新博览会 gd.chinanews.com.cn"
+    },
+    {
+      "id": "Y29uZmxpY3Q6aHR0cHM6Ly9u",
+      "title": "视频丨东京审判开庭80周年：铭记正义审判严防战争悲剧重演_媒体聚焦",
+      "source": "上海交通大学 新闻网",
+      "category": "冲突",
+      "categoryKey": "conflict",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45UGItaVVPS3hsXzRhZFBGTjI3b045VDlZTlVaM1RHV3lfNUVJcU1tRHhJdTRKV0tYU19GOG1kUllJbGt0T1BlbFpvOGFmbjhTcGd2WTg2NE5GQzdQTkNZ?oc=5",
+      "publishedAt": "2026-05-29T21:23:01.000Z",
+      "summary": "视频丨东京审判开庭80周年：铭记正义审判严防战争悲剧重演_媒体聚焦 上海交通大学 新闻网"
+    },
+    {
+      "id": "dGVjaDpodHRwczovL25ld3Mu",
+      "title": "【人民日报】基因编辑，迈向精准医疗新阶段（国际科技前沿）",
+      "source": "中国科大新闻网",
+      "category": "科技",
+      "categoryKey": "tech",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBuemNiQ2oxVXlVR1h1THYyOXd2V3FCbWNOTTBLM203NDNrVC1kZ1prYnRxNDhBVmN3UzAxdHdhdC1sQXRoNkwwNkhmVWkzeTUwQjk1elZZUQ?oc=5",
+      "publishedAt": "2026-05-29T13:08:11.000Z",
+      "summary": "【人民日报】基因编辑，迈向精准医疗新阶段（国际科技前沿） 中国科大新闻网"
+    },
+    {
+      "id": "Y2xpbWF0ZTpodHRwczovL25l",
+      "title": "赵书浩 梁国杰：全球南方塑造全球气候治理新格局",
+      "source": "ecnu.edu.cn",
+      "category": "气候",
+      "categoryKey": "climate",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZZ1JKMmRpS3YwQUFEcV94T0dsQjJXLXdHSE5WVThDRWJOaWhoQWZwVmlzZEM0c2lDNnhkRDl6WjYtSXFNRXJSUTMzTVpkX0NFZ2swWU9n?oc=5",
+      "publishedAt": "2026-05-29T08:07:32.000Z",
+      "summary": "赵书浩 梁国杰：全球南方塑造全球气候治理新格局 ecnu.edu.cn"
+    },
+    {
+      "id": "cG9saXRpY3M6aHR0cHM6Ly9u",
+      "title": "人事观察｜政治学博士卢春龙升任中国政法大学校长",
+      "source": "china.caixin.com",
+      "category": "政治",
+      "categoryKey": "politics",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wTlFJQ1hGNGpDVnlndGFiMUplV21vaF91YU1CM2VUSEVzd010YXBYdG1pVU9SczBZdFc5MmNRSlV6TF94U0tuN0NmZGhIUjJLcnZUMUZxaGc5SF9LVm9B?oc=5",
+      "publishedAt": "2026-05-29T04:12:00.000Z",
+      "summary": "人事观察｜政治学博士卢春龙升任中国政法大学校长 china.caixin.com"
+    },
+    {
+      "id": "Y29uZmxpY3Q6aHR0cHM6Ly9u",
+      "title": "国际能源署：中东冲突影响各国布局 能源安全再成焦点",
+      "source": "中国日报网",
+      "category": "冲突",
+      "categoryKey": "conflict",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jUlhLUmI4YjBUWGpEQk9sWjFaN2taeGg0QTc1RDlfMGFEZFRCQ05XMFhuaTFCWWZhNkNuaU5OTFVZMHhTemplRUZ5TEMtMDJfTmI5VkZyVnMxbnluT0p0SjNWelY1OWRiVzRWN2kxbjBEWlk2VVZINVlPa3c?oc=5",
+      "publishedAt": "2026-05-28T07:07:04.000Z",
+      "summary": "国际能源署：中东冲突影响各国布局 能源安全再成焦点 中国日报网"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "world-news-cn",
+  "version": "1.0.0",
+  "private": true,
+  "description": "全中文实时世界新闻网站，使用 GitHub Pages 发布。",
+  "type": "module",
+  "scripts": {
+    "fetch:news": "node scripts/fetch-news.mjs",
+    "serve": "npx serve ."
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.8.0"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.60.0",
+    "serve": "^14.2.4"
+  }
+}

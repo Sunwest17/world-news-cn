@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="环球即刻是一个全中文实时世界新闻网站，自动聚合最新国际新闻。"
+    />
+    <meta property="og:title" content="环球即刻 | 实时世界新闻" />
+    <meta property="og:description" content="全中文实时世界新闻浏览网站。" />
+    <meta property="og:type" content="website" />
+    <title>环球即刻 | 实时世界新闻</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230b5cad'/%3E%3Ctext x='32' y='42' text-anchor='middle' font-size='34' fill='white' font-family='Arial'%3E环%3C/text%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="返回首页">
+        <span class="brand-mark">环</span>
+        <span>环球即刻</span>
+      </a>
+      <nav class="nav-links" aria-label="主导航">
+        <a href="#latest">最新</a>
+        <a href="#topics">分类</a>
+        <a href="#sources">来源</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="kicker">实时世界新闻</p>
+          <h1>用中文快速看清全球正在发生什么</h1>
+          <p class="hero-text">
+            自动聚合全球、政治、经济、科技、冲突和气候新闻，定时刷新，适合每天快速扫一遍国际动态。
+          </p>
+          <div class="hero-actions">
+            <a class="primary-button" href="#latest">查看最新新闻</a>
+            <button class="secondary-button" id="refreshButton" type="button">重新读取</button>
+          </div>
+        </div>
+        <aside class="hero-panel" aria-label="新闻状态">
+          <div>
+            <span class="panel-label">更新时间</span>
+            <strong id="updatedAt">正在读取</strong>
+          </div>
+          <div>
+            <span class="panel-label">新闻数量</span>
+            <strong id="articleCount">0</strong>
+          </div>
+          <div>
+            <span class="panel-label">数据来源</span>
+            <strong id="sourceNote">中文新闻聚合</strong>
+          </div>
+        </aside>
+      </section>
+
+      <section class="control-band" id="topics" aria-label="筛选新闻">
+        <div class="search-box">
+          <label for="searchInput">搜索关键词</label>
+          <input id="searchInput" type="search" placeholder="输入国家、人物、机构或议题" autocomplete="off" />
+        </div>
+        <div class="category-list" id="categoryList" aria-label="新闻分类"></div>
+      </section>
+
+      <section class="lead-grid" id="latest" aria-label="头条新闻">
+        <article class="lead-card" id="leadCard">
+          <div class="skeleton skeleton-title"></div>
+          <div class="skeleton skeleton-line"></div>
+          <div class="skeleton skeleton-line short"></div>
+        </article>
+        <div class="brief-stack" id="briefStack"></div>
+      </section>
+
+      <section class="news-section" aria-label="新闻列表">
+        <div class="section-heading">
+          <h2>最新动态</h2>
+          <p id="resultSummary">正在加载新闻</p>
+        </div>
+        <div class="news-grid" id="newsGrid" aria-live="polite"></div>
+        <div class="state-card hidden" id="stateCard"></div>
+      </section>
+
+      <section class="source-strip" id="sources">
+        <h2>浏览说明</h2>
+        <p>
+          本站通过 GitHub Actions 定时生成新闻缓存。点击新闻会打开原始报道页面，便于继续阅读完整内容。
+        </p>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>环球即刻</span>
+      <span>全中文实时世界新闻</span>
+    </footer>
+
+    <script src="script.js" defer></script>
+  </body>
+</html>
